@@ -1,0 +1,901 @@
+poste,ville,type_contrat,experience_requise,salaire_annuel,date_publication,annee,trimestre,teletravail_possible,niveau_urgence,future_interest,interest_score
+ux/ui designer,bordeaux,cdi,confirmé (5-8 ans),0.4342717881565546,2020-01-01,0.0,q1,False,moyen,1,0.5471124
+commercial b2b,lyon,cdd,intermédiaire (2-5 ans),0.4448839662447257,2020-01-01,0.0,q1,False,élevé,1,0.58136237
+contrôleur de gestion,paris,cdd,confirmé (5-8 ans),0.509384548232213,2020-01-01,0.0,q1,False,faible,0,0.35000122
+chef de projet digital,paris,cdi,intermédiaire (2-5 ans),0.4338807653135457,2020-01-03,0.0,q1,False,moyen,1,0.59111476
+chef de projet digital,paris,cdd,confirmé (5-8 ans),0.5299632620398661,2020-01-13,0.0,q1,False,moyen,1,0.59111476
+data scientist,lille,cdd,intermédiaire (2-5 ans),0.5087752800814782,2020-01-17,0.0,q1,True,faible,1,0.5588574
+développeur full stack,rennes,cdi,intermédiaire (2-5 ans),0.4075731121780881,2020-01-17,0.0,q1,True,moyen,1,0.44612128
+chef de projet digital,paris,alternance,intermédiaire (2-5 ans),0.0921904554052087,2020-01-19,0.0,q1,True,moyen,1,0.59111476
+data scientist,toulouse,cdi,confirmé (5-8 ans),0.5132311217808817,2020-01-19,0.0,q1,False,moyen,0,0.5588574
+ingénieur devops,lyon,cdd,débutant (0-2 ans),0.3807289393278044,2020-01-19,0.0,q1,False,élevé,1,0.6240608
+business analyst,nantes,cdd,intermédiaire (2-5 ans),0.371871817255929,2020-01-21,0.0,q1,False,élevé,0,0.42929092
+développeur full stack,paris,cdd,senior (8+ ans),0.7314491488432999,2020-01-22,0.0,q1,True,moyen,1,0.44612128
+data scientist,lyon,stage,intermédiaire (2-5 ans),0.0544340171686308,2020-01-22,0.0,q1,True,élevé,0,0.5588574
+ux/ui designer,lyon,cdd,intermédiaire (2-5 ans),0.4015440855521606,2020-01-22,0.0,q1,False,faible,0,0.5471124
+responsable rh,bordeaux,cdi,confirmé (5-8 ans),0.5401207624036083,2020-01-29,0.0,q1,False,élevé,0,0.4071675
+architecte cloud,strasbourg,cdi,confirmé (5-8 ans),0.6687581841990398,2020-01-30,0.0,q1,False,moyen,0,0.35840565
+responsable marketing digital,toulouse,cdd,intermédiaire (2-5 ans),0.4786756147242834,2020-02-03,0.0,q1,False,moyen,1,0.44674724
+contrôleur de gestion,paris,freelance,intermédiaire (2-5 ans),0.5804779572239197,2020-02-11,0.0,q1,False,moyen,0,0.35000122
+développeur full stack,lyon,cdd,débutant (0-2 ans),0.3264131383675251,2020-02-12,0.0,q1,True,élevé,1,0.44612128
+data scientist,paris,cdi,débutant (0-2 ans),0.282554925069111,2020-02-12,0.0,q1,True,moyen,1,0.5588574
+business analyst,lille,freelance,senior (8+ ans),0.8594136476065765,2020-02-12,0.0,q1,True,faible,0,0.42929092
+ingénieur ia,rennes,stage,confirmé (5-8 ans),0.1224265240797322,2020-02-15,0.0,q1,False,moyen,0,0.47765684
+data scientist,rennes,cdd,débutant (0-2 ans),0.3470555070565982,2020-02-15,0.0,q1,True,faible,1,0.5588574
+commercial b2b,bordeaux,cdi,confirmé (5-8 ans),0.5080659828313692,2020-02-20,0.0,q1,False,moyen,1,0.58136237
+architecte cloud,toulouse,alternance,confirmé (5-8 ans),0.1937836461516077,2020-02-23,0.0,q1,False,moyen,1,0.35840565
+data scientist,toulouse,cdi,senior (8+ ans),0.640640913720355,2020-03-02,0.0,q1,True,élevé,1,0.5588574
+chef de projet digital,paris,cdd,débutant (0-2 ans),0.3387167175905718,2020-03-16,0.0,q1,False,élevé,1,0.59111476
+data scientist,toulouse,cdi,intermédiaire (2-5 ans),0.4526407682234832,2020-03-22,0.0,q1,False,moyen,1,0.5588574
+chargé de communication,paris,cdi,intermédiaire (2-5 ans),0.2998599592608759,2020-03-23,0.0,q1,False,moyen,0,0.6947753
+ingénieur devops,lyon,cdi,intermédiaire (2-5 ans),0.4470755128764732,2020-03-25,0.0,q1,False,élevé,0,0.6240608
+commercial b2b,paris,stage,intermédiaire (2-5 ans),0.0372744798486832,2020-03-26,0.0,q1,False,faible,1,0.58137727
+consultant cybersécurité,paris,stage,intermédiaire (2-5 ans),0.0818783646151607,2020-03-28,0.0,q1,False,moyen,1,0.63574207
+développeur full stack,lyon,stage,confirmé (5-8 ans),0.0915993743634511,2020-03-28,0.0,q1,False,élevé,0,0.44612128
+data scientist,paris,cdi,débutant (0-2 ans),0.306243634511858,2020-03-29,0.0,q1,False,moyen,1,0.5588574
+chef de projet digital,paris,cdi,intermédiaire (2-5 ans),0.4064818856394587,2020-03-30,0.0,q1,False,faible,1,0.59111476
+consultant cybersécurité,paris,cdi,intermédiaire (2-5 ans),0.462007129346719,2020-03-30,0.0,q1,True,moyen,1,0.63575613
+commercial b2b,nantes,cdi,senior (8+ ans),0.6163338425723847,2020-03-31,0.0,q1,False,élevé,0,0.58136237
+chargé de communication,nantes,cdd,senior (8+ ans),0.5714207769532955,2020-04-05,0.0,q2,False,moyen,1,0.6947753
+architecte cloud,paris,cdi,débutant (0-2 ans),0.3583406081769242,2020-04-09,0.0,q2,True,élevé,1,0.35840565
+data scientist,lyon,cdi,confirmé (5-8 ans),0.5094300160046559,2020-04-10,0.0,q2,True,élevé,0,0.5588574
+product owner,lille,cdi,confirmé (5-8 ans),0.5711025025461952,2020-04-13,0.0,q2,True,élevé,0,0.5584586
+data scientist,paris,cdd,débutant (0-2 ans),0.3903862941946748,2020-04-14,0.0,q2,True,moyen,1,0.5588574
+développeur full stack,montpellier,cdd,confirmé (5-8 ans),0.5454404917794268,2020-04-14,0.0,q2,True,élevé,1,0.44612128
+développeur full stack,marseille,cdi,débutant (0-2 ans),0.253300960279354,2020-04-16,0.0,q2,False,moyen,1,0.44612128
+responsable rh,paris,cdi,confirmé (5-8 ans),0.4481758329695912,2020-04-16,0.0,q2,True,moyen,0,0.4071675
+commercial b2b,paris,stage,confirmé (5-8 ans),0.0535701294922159,2020-04-20,0.0,q2,False,moyen,1,0.58136237
+développeur full stack,paris,cdi,intermédiaire (2-5 ans),0.3566219263785828,2020-04-22,0.0,q2,True,faible,0,0.44612128
+data scientist,toulouse,cdi,débutant (0-2 ans),0.3031972937581842,2020-04-24,0.0,q2,True,moyen,0,0.5588574
+ingénieur devops,montpellier,cdd,débutant (0-2 ans),0.3112814636985305,2020-04-25,0.0,q2,True,moyen,1,0.6240608
+contrôleur de gestion,paris,cdi,intermédiaire (2-5 ans),0.3636330568892769,2020-04-25,0.0,q2,True,faible,0,0.35000122
+product owner,rennes,cdi,intermédiaire (2-5 ans),0.4059544594791212,2020-04-26,0.0,q2,True,élevé,1,0.5584586
+business analyst,marseille,freelance,senior (8+ ans),0.8229939618798195,2020-04-28,0.0,q2,True,élevé,1,0.42929092
+développeur full stack,paris,cdi,débutant (0-2 ans),0.2898843299869053,2020-05-01,0.0,q2,True,élevé,1,0.44612128
+chef de projet digital,toulouse,cdd,débutant (0-2 ans),0.3187927397060963,2020-05-03,0.0,q2,True,faible,1,0.59111476
+ingénieur ia,paris,stage,confirmé (5-8 ans),0.1052215189873417,2020-05-07,0.0,q2,True,faible,1,0.47765684
+data scientist,paris,cdi,intermédiaire (2-5 ans),0.3859213589407828,2020-05-08,0.0,q2,True,moyen,0,0.5588574
+ingénieur devops,toulouse,cdi,intermédiaire (2-5 ans),0.4234504583151462,2020-05-09,0.0,q2,True,élevé,1,0.6240608
+ingénieur ia,lille,cdi,intermédiaire (2-5 ans),0.449148843299869,2020-05-12,0.0,q2,True,moyen,0,0.47765684
+chef de projet digital,paris,cdi,débutant (0-2 ans),0.329650443765459,2020-05-16,0.0,q2,True,moyen,1,0.59111476
+responsable rh,toulouse,cdi,intermédiaire (2-5 ans),0.3803651971482613,2020-05-18,0.0,q2,True,moyen,0,0.4071675
+ingénieur devops,lyon,cdd,intermédiaire (2-5 ans),0.5036101411319657,2020-05-23,0.0,q2,True,moyen,1,0.6240608
+développeur full stack,paris,cdi,confirmé (5-8 ans),0.5151498617779717,2020-05-28,0.0,q2,True,élevé,1,0.44612128
+ingénieur devops,paris,stage,confirmé (5-8 ans),0.0868161647024589,2020-05-28,0.0,q2,True,moyen,0,0.6239463
+responsable marketing digital,paris,cdd,débutant (0-2 ans),0.3143914593336243,2020-05-30,0.0,q2,False,moyen,0,0.44683775
+responsable marketing digital,nantes,cdi,intermédiaire (2-5 ans),0.4329623163101993,2020-06-02,0.0,q2,False,faible,0,0.44674724
+architecte cloud,nantes,cdi,intermédiaire (2-5 ans),0.4813218390804598,2020-06-02,0.0,q2,True,moyen,1,0.35840565
+ingénieur ia,toulouse,cdi,débutant (0-2 ans),0.3198384984722828,2020-06-07,0.0,q2,False,élevé,0,0.47765684
+développeur full stack,montpellier,cdd,débutant (0-2 ans),0.3190746398952422,2020-06-09,0.0,q2,False,élevé,0,0.44612128
+chef de projet digital,paris,cdi,confirmé (5-8 ans),0.4693729084824676,2020-06-10,0.0,q2,True,moyen,1,0.59111476
+contrôleur de gestion,paris,cdi,intermédiaire (2-5 ans),0.4097646588098356,2020-06-10,0.0,q2,False,moyen,0,0.35000122
+responsable marketing digital,lille,cdi,débutant (0-2 ans),0.2728157282118434,2020-06-12,0.0,q2,True,moyen,0,0.44674724
+responsable marketing digital,lyon,cdd,confirmé (5-8 ans),0.5865797322857559,2020-06-13,0.0,q2,False,faible,1,0.44674724
+architecte cloud,rennes,cdi,confirmé (5-8 ans),0.5885985013822203,2020-06-14,0.0,q2,True,faible,0,0.35840565
+architecte cloud,paris,cdi,débutant (0-2 ans),0.3486650662010767,2020-06-15,0.0,q2,True,moyen,0,0.35840565
+commercial b2b,marseille,cdd,intermédiaire (2-5 ans),0.3876036665211698,2020-06-16,0.0,q2,False,élevé,0,0.58136237
+business analyst,paris,cdi,intermédiaire (2-5 ans),0.330577986323294,2020-06-23,0.0,q2,True,élevé,0,0.42929092
+architecte cloud,lille,cdi,senior (8+ ans),0.8060253892041321,2020-07-01,0.0,q3,True,moyen,0,0.35840565
+ux/ui designer,paris,freelance,débutant (0-2 ans),0.3719172850283719,2020-07-02,0.0,q3,True,moyen,1,0.5471124
+commercial b2b,toulouse,stage,débutant (0-2 ans),0.011885275716572,2020-07-02,0.0,q3,True,élevé,1,0.58136237
+chef de projet digital,paris,cdi,intermédiaire (2-5 ans),0.3808926233085988,2020-07-05,0.0,q3,False,élevé,1,0.59111476
+consultant cybersécurité,nantes,cdi,intermédiaire (2-5 ans),0.4658446093408991,2020-07-07,0.0,q3,True,élevé,1,0.63575613
+développeur full stack,lyon,stage,intermédiaire (2-5 ans),0.0389476938745817,2020-07-12,0.0,q3,False,moyen,1,0.44612128
+data scientist,paris,freelance,débutant (0-2 ans),0.4213589407827732,2020-07-14,0.0,q3,False,élevé,0,0.5588574
+chef de projet digital,toulouse,cdi,senior (8+ ans),0.6439964353266405,2020-07-20,0.0,q3,True,élevé,1,0.59111476
+data scientist,lyon,cdi,débutant (0-2 ans),0.3439091372035501,2020-07-22,0.0,q3,True,élevé,0,0.5588574
+ux/ui designer,paris,cdi,débutant (0-2 ans),0.2201640477229739,2020-07-22,0.0,q3,True,moyen,1,0.5471124
+ingénieur devops,bordeaux,cdi,confirmé (5-8 ans),0.5330186963480286,2020-07-26,0.0,q3,True,élevé,1,0.6240608
+chargé de communication,rennes,cdi,senior (8+ ans),0.5181598283136912,2020-07-28,0.0,q3,True,faible,0,0.6947753
+développeur full stack,nantes,cdi,confirmé (5-8 ans),0.5161046849992725,2020-07-29,0.0,q3,False,moyen,1,0.44612128
+data scientist,lille,cdi,senior (8+ ans),0.7480176051214898,2020-07-30,0.0,q3,True,élevé,1,0.5588574
+responsable marketing digital,paris,cdi,intermédiaire (2-5 ans),0.4221227993598138,2020-08-03,0.0,q3,False,faible,1,0.44674724
+business analyst,lille,cdi,senior (8+ ans),0.6751145787865561,2020-08-14,0.0,q3,True,faible,0,0.42929092
+chef de projet digital,lille,cdi,intermédiaire (2-5 ans),0.4468572675687473,2020-08-14,0.0,q3,False,moyen,0,0.59111476
+responsable rh,paris,cdi,confirmé (5-8 ans),0.4994089189582424,2020-08-15,0.0,q3,True,faible,0,0.4071675
+chargé de communication,lyon,cdi,senior (8+ ans),0.5991652116979485,2020-08-16,0.0,q3,False,moyen,0,0.694785
+ingénieur ia,nantes,cdi,intermédiaire (2-5 ans),0.4180670740579078,2020-08-16,0.0,q3,True,moyen,0,0.4776264
+consultant cybersécurité,lille,cdi,intermédiaire (2-5 ans),0.4577331587370871,2020-08-17,0.0,q3,False,faible,0,0.63575613
+ingénieur devops,bordeaux,cdd,confirmé (5-8 ans),0.6231631019933072,2020-08-19,0.0,q3,True,faible,0,0.6240608
+business analyst,lille,cdi,débutant (0-2 ans),0.2570475047286483,2020-08-21,0.0,q3,False,moyen,0,0.42929092
+commercial b2b,lille,cdi,débutant (0-2 ans),0.2202549832678597,2020-08-22,0.0,q3,True,élevé,0,0.58136237
+ingénieur devops,paris,stage,senior (8+ ans),0.1663029244871235,2020-08-24,0.0,q3,True,élevé,0,0.6240608
+ux/ui designer,paris,cdi,débutant (0-2 ans),0.2491906736505165,2020-08-25,0.0,q3,True,moyen,1,0.5471124
+data scientist,nantes,cdi,débutant (0-2 ans),0.3061981667394151,2020-08-26,0.0,q3,False,moyen,1,0.5588574
+ingénieur devops,montpellier,alternance,intermédiaire (2-5 ans),0.125472864833406,2020-08-27,0.0,q3,True,élevé,1,0.6240608
+consultant cybersécurité,lille,freelance,intermédiaire (2-5 ans),0.6236996217081333,2020-09-01,0.0,q3,True,moyen,1,0.63575613
+architecte cloud,lille,cdd,intermédiaire (2-5 ans),0.5785955914447839,2020-09-01,0.0,q3,False,moyen,0,0.35840565
+contrôleur de gestion,lyon,alternance,confirmé (5-8 ans),0.1212625491051942,2020-09-01,0.0,q3,False,moyen,1,0.35000122
+responsable marketing digital,lyon,freelance,intermédiaire (2-5 ans),0.6424778117270479,2020-09-05,0.0,q3,False,faible,1,0.44674724
+ux/ui designer,bordeaux,cdd,confirmé (5-8 ans),0.5621453513749455,2020-09-06,0.0,q3,False,faible,1,0.5471124
+développeur full stack,bordeaux,cdd,intermédiaire (2-5 ans),0.4332442164993452,2020-09-06,0.0,q3,True,faible,1,0.44612128
+ux/ui designer,toulouse,stage,confirmé (5-8 ans),0.0742943401716863,2020-09-07,0.0,q3,True,élevé,0,0.5471124
+data scientist,strasbourg,alternance,confirmé (5-8 ans),0.1740051651389495,2020-09-09,0.0,q3,True,moyen,1,0.5588574
+commercial b2b,strasbourg,alternance,confirmé (5-8 ans),0.1025571075221882,2020-09-09,0.0,q3,True,faible,0,0.58136237
+développeur full stack,rennes,cdi,intermédiaire (2-5 ans),0.3663065619089189,2020-09-09,0.0,q3,True,élevé,1,0.44612128
+développeur full stack,bordeaux,cdi,débutant (0-2 ans),0.2885566710315728,2020-09-10,0.0,q3,True,moyen,0,0.44612128
+consultant cybersécurité,paris,stage,confirmé (5-8 ans),0.0943092536010475,2020-09-12,0.0,q3,True,moyen,0,0.63575613
+commercial b2b,paris,cdi,intermédiaire (2-5 ans),0.3585042921577186,2020-09-14,0.0,q3,True,moyen,1,0.58136237
+ingénieur devops,montpellier,freelance,débutant (0-2 ans),0.511412410883166,2020-09-14,0.0,q3,True,moyen,1,0.6240608
+product owner,paris,cdi,confirmé (5-8 ans),0.4967172268296231,2020-09-19,0.0,q3,True,élevé,0,0.5584586
+consultant cybersécurité,montpellier,cdi,débutant (0-2 ans),0.3410082933216936,2020-09-22,0.0,q3,False,moyen,0,0.63575613
+ux/ui designer,strasbourg,cdi,senior (8+ ans),0.6087043503564673,2020-09-22,0.0,q3,True,élevé,0,0.5471124
+data scientist,lyon,alternance,intermédiaire (2-5 ans),0.1151062127164266,2020-09-26,0.0,q3,True,faible,1,0.5588574
+responsable rh,strasbourg,cdi,débutant (0-2 ans),0.2851284009893787,2020-09-26,0.0,q3,False,élevé,1,0.4071675
+architecte cloud,lille,cdi,intermédiaire (2-5 ans),0.4800669285610359,2020-09-29,0.0,q3,True,moyen,0,0.35840565
+ingénieur ia,rennes,cdi,confirmé (5-8 ans),0.6066037392696058,2020-09-30,0.0,q3,True,élevé,0,0.47765684
+commercial b2b,rennes,freelance,confirmé (5-8 ans),0.680252437072603,2020-10-01,0.0,q4,False,faible,1,0.58136237
+responsable marketing digital,nantes,cdi,intermédiaire (2-5 ans),0.3636876182162084,2020-10-01,0.0,q4,True,élevé,1,0.44683775
+chef de projet digital,paris,cdi,intermédiaire (2-5 ans),0.3902862650953004,2020-10-02,0.0,q4,True,moyen,0,0.5911443
+consultant cybersécurité,paris,cdd,débutant (0-2 ans),0.3636330568892769,2020-10-03,0.0,q4,True,faible,0,0.63575613
+chef de projet digital,rennes,alternance,confirmé (5-8 ans),0.1315382656772879,2020-10-03,0.0,q4,True,moyen,0,0.59111476
+product owner,bordeaux,cdi,senior (8+ ans),0.6751236723410446,2020-10-03,0.0,q4,True,élevé,0,0.5584586
+responsable marketing digital,paris,cdi,débutant (0-2 ans),0.2633402444347446,2020-10-08,0.0,q4,True,moyen,1,0.44674724
+ingénieur ia,lille,cdi,intermédiaire (2-5 ans),0.4481030845336825,2020-10-09,0.0,q4,True,moyen,1,0.47765684
+responsable marketing digital,lyon,cdi,intermédiaire (2-5 ans),0.4156390950094573,2020-10-09,0.0,q4,False,moyen,1,0.44674724
+product owner,montpellier,cdi,intermédiaire (2-5 ans),0.3716626655026916,2020-10-10,0.0,q4,False,élevé,1,0.5584586
+ux/ui designer,paris,cdd,confirmé (5-8 ans),0.5152771715408119,2020-10-12,0.0,q4,True,moyen,0,0.5471124
+data scientist,paris,stage,débutant (0-2 ans),0.0347737523643241,2020-10-13,0.0,q4,True,élevé,0,0.5588574
+architecte cloud,paris,cdi,intermédiaire (2-5 ans),0.4718827295213152,2020-10-16,0.0,q4,True,élevé,1,0.35840565
+data scientist,paris,cdi,intermédiaire (2-5 ans),0.4049087007129346,2020-10-18,0.0,q4,True,faible,1,0.5588574
+architecte cloud,paris,cdd,débutant (0-2 ans),0.3721173432271206,2020-10-19,0.0,q4,False,élevé,1,0.35840565
+commercial b2b,paris,cdi,débutant (0-2 ans),0.257702240651826,2020-10-20,0.0,q4,False,moyen,1,0.58136237
+chef de projet digital,bordeaux,cdd,intermédiaire (2-5 ans),0.4995726029390368,2020-10-20,0.0,q4,True,moyen,0,0.59111476
+consultant cybersécurité,paris,stage,débutant (0-2 ans),0.0369289247781172,2020-10-28,0.0,q4,True,moyen,0,0.63575613
+responsable marketing digital,lille,cdi,intermédiaire (2-5 ans),0.4137385421213443,2020-10-30,0.0,q4,False,élevé,0,0.44674724
+responsable marketing digital,paris,cdi,confirmé (5-8 ans),0.5384384548232213,2020-10-31,0.0,q4,True,élevé,1,0.44674724
+product owner,rennes,freelance,confirmé (5-8 ans),0.8195656918376255,2020-10-31,0.0,q4,True,moyen,0,0.5584586
+développeur full stack,paris,cdi,confirmé (5-8 ans),0.5490142586934381,2020-11-06,0.0,q4,False,moyen,0,0.44612128
+contrôleur de gestion,paris,cdd,intermédiaire (2-5 ans),0.4148297686599738,2020-11-10,0.0,q4,False,moyen,0,0.35000122
+responsable marketing digital,paris,cdd,confirmé (5-8 ans),0.5834060817692419,2020-11-13,0.0,q4,True,élevé,0,0.44674724
+responsable marketing digital,lille,cdi,intermédiaire (2-5 ans),0.3933053251855085,2020-11-21,0.0,q4,False,moyen,0,0.44674724
+consultant cybersécurité,paris,cdd,intermédiaire (2-5 ans),0.5330005092390514,2020-11-22,0.0,q4,False,moyen,0,0.63575613
+architecte cloud,bordeaux,cdd,confirmé (5-8 ans),0.6579095736941656,2020-11-24,0.0,q4,False,moyen,1,0.35840565
+contrôleur de gestion,paris,cdi,débutant (0-2 ans),0.260484868325331,2020-11-29,0.0,q4,True,moyen,0,0.35000122
+chef de projet digital,paris,cdd,confirmé (5-8 ans),0.6120689655172413,2020-11-30,0.0,q4,True,moyen,1,0.59111476
+responsable rh,montpellier,cdi,confirmé (5-8 ans),0.4617252291575731,2020-11-30,0.0,q4,True,élevé,1,0.4071675
+responsable marketing digital,rennes,cdd,intermédiaire (2-5 ans),0.4143387167175906,2020-12-03,0.0,q4,True,faible,0,0.44674724
+consultant cybersécurité,strasbourg,stage,débutant (0-2 ans),0.033482467626946,2020-12-04,0.0,q4,False,moyen,1,0.63575613
+ingénieur devops,marseille,cdi,débutant (0-2 ans),0.3201840535428488,2020-12-04,0.0,q4,False,élevé,0,0.6240608
+ingénieur devops,paris,freelance,confirmé (5-8 ans),0.7846464426014841,2020-12-05,0.0,q4,True,moyen,1,0.6239463
+product owner,bordeaux,alternance,intermédiaire (2-5 ans),0.1001291284737378,2020-12-07,0.0,q4,False,faible,1,0.5584624
+contrôleur de gestion,paris,cdi,intermédiaire (2-5 ans),0.3210934089917067,2020-12-09,0.0,q4,True,moyen,0,0.35000122
+ingénieur ia,paris,cdd,confirmé (5-8 ans),0.6613924050632911,2020-12-10,0.0,q4,True,faible,1,0.47765684
+contrôleur de gestion,paris,cdi,confirmé (5-8 ans),0.5229157573112178,2020-12-13,0.0,q4,True,faible,1,0.35000122
+data scientist,strasbourg,cdi,senior (8+ ans),0.6948930597992143,2020-12-16,0.0,q4,True,faible,1,0.5588574
+consultant cybersécurité,strasbourg,stage,débutant (0-2 ans),0.0301996944565691,2020-12-16,0.0,q4,True,élevé,0,0.63575613
+responsable rh,marseille,stage,intermédiaire (2-5 ans),0.050978466462971,2020-12-18,0.0,q4,True,moyen,0,0.4071675
+développeur full stack,bordeaux,cdi,confirmé (5-8 ans),0.519351083951695,2020-12-21,0.0,q4,False,faible,0,0.44612128
+ingénieur ia,strasbourg,cdi,intermédiaire (2-5 ans),0.4577877200640186,2020-12-25,0.0,q4,False,moyen,1,0.47765684
+data scientist,paris,cdd,débutant (0-2 ans),0.340935544885785,2020-12-25,0.0,q4,False,moyen,1,0.5588574
+data scientist,marseille,cdd,intermédiaire (2-5 ans),0.4778753819292885,2020-12-30,0.0,q4,True,élevé,1,0.5588574
+chef de projet digital,lyon,freelance,débutant (0-2 ans),0.4122744798486832,2021-01-01,0.25,q1,True,moyen,0,0.59111476
+data scientist,paris,cdd,senior (8+ ans),0.8214571511712498,2021-01-01,0.25,q1,True,moyen,1,0.5588574
+contrôleur de gestion,toulouse,stage,confirmé (5-8 ans),0.0709479121198894,2021-01-02,0.25,q1,True,élevé,0,0.35000122
+responsable marketing digital,paris,cdd,intermédiaire (2-5 ans),0.432516732140259,2021-01-05,0.25,q1,True,faible,1,0.44674724
+ux/ui designer,nantes,cdd,débutant (0-2 ans),0.2723246762694602,2021-01-05,0.25,q1,False,élevé,0,0.5471124
+consultant cybersécurité,paris,stage,confirmé (5-8 ans),0.095054925069111,2021-01-07,0.25,q1,False,faible,1,0.63575613
+ux/ui designer,paris,alternance,intermédiaire (2-5 ans),0.1034119016441146,2021-01-08,0.25,q1,True,élevé,0,0.5471124
+data scientist,paris,cdi,débutant (0-2 ans),0.3308598865124399,2021-01-10,0.25,q1,True,moyen,1,0.5588574
+business analyst,lyon,cdi,confirmé (5-8 ans),0.4502855376109413,2021-01-11,0.25,q1,True,moyen,1,0.42929092
+commercial b2b,nantes,alternance,confirmé (5-8 ans),0.1275007274843591,2021-01-15,0.25,q1,True,moyen,1,0.58136237
+business analyst,paris,freelance,débutant (0-2 ans),0.3871762694602066,2021-01-17,0.25,q1,False,moyen,1,0.42929092
+architecte cloud,lille,cdi,intermédiaire (2-5 ans),0.5911901644114651,2021-01-21,0.25,q1,True,faible,1,0.35840565
+commercial b2b,lille,alternance,confirmé (5-8 ans),0.1111505165138949,2021-01-25,0.25,q1,False,élevé,1,0.58136237
+data scientist,lille,cdi,intermédiaire (2-5 ans),0.495598719627528,2021-01-28,0.25,q1,True,moyen,1,0.5588574
+commercial b2b,toulouse,cdd,intermédiaire (2-5 ans),0.4561326931470973,2021-01-29,0.25,q1,True,moyen,0,0.58136237
+ux/ui designer,lyon,cdi,intermédiaire (2-5 ans),0.383802560744944,2021-02-05,0.25,q1,True,moyen,1,0.5471124
+ingénieur ia,toulouse,freelance,débutant (0-2 ans),0.5265440855521606,2021-02-06,0.25,q1,False,faible,0,0.47765684
+consultant cybersécurité,paris,cdd,débutant (0-2 ans),0.35855885348465,2021-02-06,0.25,q1,False,moyen,1,0.63575613
+ingénieur ia,paris,cdi,débutant (0-2 ans),0.2913029244871235,2021-02-09,0.25,q1,True,moyen,0,0.47765684
+chef de projet digital,marseille,cdi,intermédiaire (2-5 ans),0.4712552742616033,2021-02-10,0.25,q1,False,moyen,1,0.59111476
+responsable rh,marseille,cdi,confirmé (5-8 ans),0.5205150589262331,2021-02-11,0.25,q1,False,élevé,0,0.40710858
+développeur full stack,rennes,cdi,intermédiaire (2-5 ans),0.459460934089917,2021-02-15,0.25,q1,True,élevé,0,0.44615144
+développeur full stack,montpellier,stage,confirmé (5-8 ans),0.1014295067656045,2021-02-16,0.25,q1,False,faible,1,0.44612128
+consultant cybersécurité,marseille,cdi,confirmé (5-8 ans),0.5587625491051942,2021-02-17,0.25,q1,False,faible,0,0.63575613
+ingénieur ia,marseille,cdi,débutant (0-2 ans),0.3030881711043212,2021-02-18,0.25,q1,False,élevé,1,0.47765684
+contrôleur de gestion,marseille,stage,confirmé (5-8 ans),0.078377346137058,2021-02-18,0.25,q1,True,faible,1,0.35000122
+chargé de communication,lille,freelance,confirmé (5-8 ans),0.6066764877055143,2021-02-23,0.25,q1,True,élevé,0,0.6947753
+développeur full stack,strasbourg,stage,intermédiaire (2-5 ans),0.0517696057034773,2021-02-23,0.25,q1,True,faible,0,0.44612128
+responsable marketing digital,paris,alternance,confirmé (5-8 ans),0.1535355739851593,2021-02-25,0.25,q1,True,élevé,1,0.44674724
+développeur full stack,marseille,cdi,débutant (0-2 ans),0.2715608176924196,2021-03-02,0.25,q1,True,élevé,1,0.44612128
+ingénieur ia,paris,cdi,débutant (0-2 ans),0.3012512730976284,2021-03-09,0.25,q1,True,moyen,0,0.47765684
+développeur full stack,bordeaux,stage,confirmé (5-8 ans),0.1028299141568456,2021-03-17,0.25,q1,True,moyen,0,0.44612128
+responsable marketing digital,paris,cdd,intermédiaire (2-5 ans),0.4528953877491634,2021-03-18,0.25,q1,False,élevé,1,0.44674724
+product owner,toulouse,cdi,confirmé (5-8 ans),0.4715371744507493,2021-03-22,0.25,q1,True,élevé,0,0.5584586
+chef de projet digital,paris,cdi,intermédiaire (2-5 ans),0.3695802415248072,2021-03-23,0.25,q1,True,élevé,0,0.59111476
+responsable rh,paris,freelance,débutant (0-2 ans),0.3959515495416849,2021-03-29,0.25,q1,True,moyen,1,0.4071675
+développeur full stack,lyon,stage,débutant (0-2 ans),0.00927542557835,2021-03-30,0.25,q1,True,moyen,0,0.44612128
+data scientist,paris,cdi,débutant (0-2 ans),0.3470555070565982,2021-03-31,0.25,q1,False,élevé,1,0.5588574
+responsable marketing digital,lille,cdd,débutant (0-2 ans),0.327968136185072,2021-04-01,0.25,q2,True,élevé,0,0.44674724
+commercial b2b,rennes,cdd,senior (8+ ans),0.7241015568165284,2021-04-05,0.25,q2,True,faible,1,0.58136237
+développeur full stack,montpellier,freelance,intermédiaire (2-5 ans),0.6749508948057616,2021-04-06,0.25,q2,False,moyen,1,0.44612128
+ingénieur devops,paris,cdi,débutant (0-2 ans),0.3037701876909646,2021-04-15,0.25,q2,True,élevé,1,0.6240608
+commercial b2b,paris,cdi,intermédiaire (2-5 ans),0.3691801251273097,2021-04-25,0.25,q2,False,moyen,1,0.58136237
+product owner,marseille,cdd,débutant (0-2 ans),0.3034973810563073,2021-04-25,0.25,q2,True,faible,0,0.5584586
+ux/ui designer,lyon,cdi,intermédiaire (2-5 ans),0.4064636985304816,2021-04-29,0.25,q2,True,moyen,1,0.5471124
+ingénieur devops,paris,cdi,débutant (0-2 ans),0.311226902371599,2021-05-06,0.25,q2,False,faible,1,0.6240608
+ux/ui designer,nantes,cdi,débutant (0-2 ans),0.2222464717008584,2021-05-07,0.25,q2,True,élevé,1,0.5471124
+consultant cybersécurité,bordeaux,cdi,intermédiaire (2-5 ans),0.4515677287938309,2021-05-13,0.25,q2,False,moyen,1,0.63575613
+développeur full stack,paris,cdd,confirmé (5-8 ans),0.5820147679324894,2021-05-14,0.25,q2,True,faible,1,0.44612128
+responsable marketing digital,bordeaux,cdd,confirmé (5-8 ans),0.6157336679761385,2021-05-14,0.25,q2,True,moyen,1,0.44674724
+data scientist,lille,cdi,intermédiaire (2-5 ans),0.3954877782627674,2021-05-15,0.25,q2,False,élevé,0,0.5588574
+data scientist,paris,cdi,débutant (0-2 ans),0.3487105339735196,2021-05-16,0.25,q2,False,faible,0,0.5588574
+commercial b2b,paris,cdi,débutant (0-2 ans),0.2351956932925942,2021-05-17,0.25,q2,False,moyen,1,0.58137727
+ingénieur ia,lille,freelance,intermédiaire (2-5 ans),0.7320311363305689,2021-05-18,0.25,q2,True,moyen,1,0.4776264
+data scientist,bordeaux,cdi,intermédiaire (2-5 ans),0.4102102429797759,2021-05-19,0.25,q2,True,moyen,0,0.5588574
+data scientist,lyon,cdi,confirmé (5-8 ans),0.5949094281972938,2021-05-24,0.25,q2,False,faible,0,0.5588574
+développeur full stack,bordeaux,stage,débutant (0-2 ans),0.0149679906882002,2021-05-24,0.25,q2,True,faible,0,0.44612128
+responsable rh,paris,alternance,débutant (0-2 ans),0.0439946166157427,2021-05-25,0.25,q2,False,élevé,0,0.4071675
+développeur full stack,paris,cdi,intermédiaire (2-5 ans),0.4314982540375382,2021-05-27,0.25,q2,False,faible,0,0.44612128
+développeur full stack,paris,alternance,débutant (0-2 ans),0.0624818128910228,2021-05-29,0.25,q2,True,moyen,1,0.44612128
+ux/ui designer,nantes,cdi,débutant (0-2 ans),0.223765095300451,2021-05-30,0.25,q2,False,faible,0,0.5471124
+développeur full stack,paris,cdd,intermédiaire (2-5 ans),0.4299978175469227,2021-05-31,0.25,q2,False,moyen,0,0.44612128
+responsable marketing digital,paris,cdd,intermédiaire (2-5 ans),0.4407009311799796,2021-05-31,0.25,q2,False,faible,1,0.44674724
+architecte cloud,nantes,cdi,débutant (0-2 ans),0.3492925214607886,2021-05-31,0.25,q2,False,moyen,1,0.35840565
+commercial b2b,paris,cdi,senior (8+ ans),0.645796959115379,2021-06-03,0.25,q2,True,moyen,1,0.58136237
+business analyst,paris,cdi,confirmé (5-8 ans),0.5237250836607013,2021-06-04,0.25,q2,False,élevé,0,0.42929092
+responsable marketing digital,paris,cdd,débutant (0-2 ans),0.3617597846646297,2021-06-04,0.25,q2,False,moyen,0,0.44674724
+product owner,paris,stage,intermédiaire (2-5 ans),0.0596991852175178,2021-06-13,0.25,q2,False,moyen,0,0.5584586
+product owner,lille,cdd,débutant (0-2 ans),0.2975138222028226,2021-06-16,0.25,q2,True,moyen,1,0.5584586
+architecte cloud,bordeaux,cdd,confirmé (5-8 ans),0.6816619380183326,2021-06-20,0.25,q2,True,moyen,1,0.35840565
+business analyst,bordeaux,freelance,intermédiaire (2-5 ans),0.541939473301324,2021-06-27,0.25,q2,True,moyen,1,0.42929092
+business analyst,bordeaux,freelance,confirmé (5-8 ans),0.7975138222028226,2021-06-28,0.25,q2,False,moyen,1,0.42929092
+développeur full stack,paris,cdi,débutant (0-2 ans),0.307107522188273,2021-06-29,0.25,q2,True,moyen,0,0.44612128
+chef de projet digital,paris,cdi,intermédiaire (2-5 ans),0.4607976865997381,2021-06-29,0.25,q2,True,moyen,1,0.59111476
+commercial b2b,bordeaux,cdi,débutant (0-2 ans),0.2576476793248945,2021-06-30,0.25,q2,True,élevé,0,0.58136237
+développeur full stack,montpellier,cdd,confirmé (5-8 ans),0.588625782045686,2021-07-01,0.25,q3,True,moyen,0,0.44612128
+développeur full stack,paris,alternance,débutant (0-2 ans),0.0661828895678742,2021-07-02,0.25,q3,True,faible,1,0.44612128
+chef de projet digital,bordeaux,cdi,débutant (0-2 ans),0.3325967554197584,2021-07-04,0.25,q3,False,moyen,1,0.59111476
+ingénieur ia,lille,stage,confirmé (5-8 ans),0.1206078131820165,2021-07-06,0.25,q3,True,faible,0,0.47765684
+commercial b2b,paris,cdd,intermédiaire (2-5 ans),0.3862941946748145,2021-07-06,0.25,q3,True,élevé,0,0.58136237
+développeur full stack,toulouse,alternance,débutant (0-2 ans),0.0594081914738833,2021-07-09,0.25,q3,False,moyen,0,0.44612128
+commercial b2b,lille,cdi,intermédiaire (2-5 ans),0.3829204859595518,2021-07-10,0.25,q3,False,moyen,0,0.58136237
+architecte cloud,toulouse,cdi,confirmé (5-8 ans),0.6100592899752655,2021-07-11,0.25,q3,False,moyen,0,0.35840565
+chef de projet digital,nantes,alternance,confirmé (5-8 ans),0.1725138222028226,2021-07-12,0.25,q3,True,élevé,1,0.59111476
+data scientist,marseille,stage,intermédiaire (2-5 ans),0.0548159464571511,2021-07-12,0.25,q3,True,moyen,1,0.5588574
+architecte cloud,rennes,cdi,intermédiaire (2-5 ans),0.5815328095445947,2021-07-12,0.25,q3,False,moyen,0,0.35841972
+consultant cybersécurité,paris,cdi,débutant (0-2 ans),0.3132456714680634,2021-07-13,0.25,q3,False,moyen,1,0.63575613
+chef de projet digital,marseille,alternance,débutant (0-2 ans),0.075831150880256,2021-07-13,0.25,q3,True,faible,0,0.59111476
+développeur full stack,lyon,freelance,confirmé (5-8 ans),0.8289320529608614,2021-07-14,0.25,q3,False,élevé,0,0.44612128
+product owner,nantes,freelance,senior (8+ ans),0.4248008511567001,2021-07-19,0.25,q3,True,faible,1,0.5584586
+chef de projet digital,paris,stage,intermédiaire (2-5 ans),0.0667103157282118,2021-07-23,0.25,q3,False,élevé,1,0.59111476
+responsable rh,paris,cdi,confirmé (5-8 ans),0.4673450458315146,2021-07-23,0.25,q3,True,moyen,1,0.4071675
+data scientist,bordeaux,alternance,senior (8+ ans),0.2556470973374072,2021-07-25,0.25,q3,True,élevé,0,0.5588574
+consultant cybersécurité,paris,cdi,confirmé (5-8 ans),0.6050851156700131,2021-08-01,0.25,q3,False,élevé,1,0.63575613
+product owner,toulouse,alternance,confirmé (5-8 ans),0.1589189582423978,2021-08-01,0.25,q3,True,faible,0,0.5584586
+consultant cybersécurité,strasbourg,cdi,débutant (0-2 ans),0.3727447984868325,2021-08-02,0.25,q3,True,élevé,1,0.63575613
+développeur full stack,paris,cdi,débutant (0-2 ans),0.264367816091954,2021-08-04,0.25,q3,False,moyen,0,0.44612128
+architecte cloud,paris,freelance,intermédiaire (2-5 ans),0.7009038993161647,2021-08-04,0.25,q3,True,moyen,0,0.35840565
+ux/ui designer,lyon,cdi,confirmé (5-8 ans),0.5000090935544885,2021-08-10,0.25,q3,True,élevé,1,0.5471124
+chef de projet digital,lille,stage,débutant (0-2 ans),0.0304088462098064,2021-08-10,0.25,q3,False,élevé,0,0.59111476
+business analyst,paris,cdi,intermédiaire (2-5 ans),0.4092463262039866,2021-08-11,0.25,q3,False,moyen,0,0.42929092
+développeur full stack,paris,cdi,intermédiaire (2-5 ans),0.4397915757311217,2021-08-11,0.25,q3,False,moyen,1,0.44612128
+business analyst,paris,cdi,intermédiaire (2-5 ans),0.3464098646879092,2021-08-17,0.25,q3,True,faible,0,0.42929092
+développeur full stack,strasbourg,cdd,intermédiaire (2-5 ans),0.4327076967845191,2021-08-25,0.25,q3,True,élevé,1,0.44612128
+développeur full stack,toulouse,cdi,intermédiaire (2-5 ans),0.4343081623745089,2021-08-28,0.25,q3,True,élevé,1,0.44612128
+business analyst,paris,cdi,intermédiaire (2-5 ans),0.4015622726611378,2021-08-29,0.25,q3,True,élevé,0,0.42929092
+product owner,toulouse,cdd,confirmé (5-8 ans),0.6194893059799215,2021-08-30,0.25,q3,True,moyen,1,0.5584586
+consultant cybersécurité,paris,cdi,confirmé (5-8 ans),0.6688036519714826,2021-09-01,0.25,q3,True,moyen,1,0.63575613
+chef de projet digital,lyon,cdi,confirmé (5-8 ans),0.4795395024006983,2021-09-03,0.25,q3,True,moyen,0,0.59111476
+développeur full stack,toulouse,cdi,intermédiaire (2-5 ans),0.450185508511567,2021-09-08,0.25,q3,False,élevé,0,0.44612128
+commercial b2b,lyon,stage,débutant (0-2 ans),0.0004819583878946,2021-09-09,0.25,q3,False,moyen,0,0.58136237
+responsable rh,nantes,cdi,confirmé (5-8 ans),0.5122035501236724,2021-09-10,0.25,q3,True,faible,1,0.4071675
+chef de projet digital,paris,stage,confirmé (5-8 ans),0.0948912410883166,2021-09-11,0.25,q3,True,moyen,1,0.59111476
+responsable marketing digital,rennes,cdi,débutant (0-2 ans),0.2490997381056307,2021-09-11,0.25,q3,True,moyen,0,0.44674724
+développeur full stack,paris,cdd,senior (8+ ans),0.6988123817837917,2021-09-13,0.25,q3,True,élevé,0,0.44612128
+ingénieur ia,lyon,cdi,intermédiaire (2-5 ans),0.4891968572675687,2021-09-15,0.25,q3,True,élevé,0,0.47765684
+développeur full stack,paris,cdd,intermédiaire (2-5 ans),0.5054470391386585,2021-09-20,0.25,q3,True,moyen,0,0.44615144
+chargé de communication,marseille,stage,confirmé (5-8 ans),0.0671468063436636,2021-09-21,0.25,q3,True,faible,1,0.694785
+data scientist,marseille,cdi,confirmé (5-8 ans),0.5413483922595664,2021-09-25,0.25,q3,False,élevé,0,0.5588574
+responsable rh,lille,cdi,intermédiaire (2-5 ans),0.3430088753091808,2021-09-30,0.25,q3,False,faible,0,0.4071675
+responsable marketing digital,toulouse,alternance,senior (8+ ans),0.1789065910082933,2021-09-30,0.25,q3,False,moyen,1,0.44674724
+chargé de communication,paris,cdi,senior (8+ ans),0.6054124836316019,2021-10-06,0.25,q4,True,élevé,0,0.6947753
+data scientist,montpellier,cdi,senior (8+ ans),0.7050778408264222,2021-10-08,0.25,q4,False,faible,1,0.5588574
+développeur full stack,paris,cdi,débutant (0-2 ans),0.2605212425432853,2021-10-08,0.25,q4,True,moyen,1,0.44612128
+business analyst,lille,cdd,confirmé (5-8 ans),0.5021733595227703,2021-10-09,0.25,q4,True,moyen,0,0.42929092
+responsable marketing digital,paris,cdi,confirmé (5-8 ans),0.5028735632183908,2021-10-12,0.25,q4,True,élevé,1,0.44674724
+chef de projet digital,lille,cdd,confirmé (5-8 ans),0.6391586643387167,2021-10-14,0.25,q4,False,moyen,0,0.59111476
+ux/ui designer,montpellier,cdi,intermédiaire (2-5 ans),0.3280863523934235,2021-10-18,0.25,q4,True,moyen,1,0.5471124
+ingénieur ia,bordeaux,cdi,débutant (0-2 ans),0.3286592463262039,2021-10-19,0.25,q4,True,faible,0,0.47765684
+responsable marketing digital,lyon,cdi,confirmé (5-8 ans),0.4653171831805616,2021-10-23,0.25,q4,False,moyen,1,0.44674724
+chef de projet digital,marseille,cdi,débutant (0-2 ans),0.3051705950822057,2021-10-26,0.25,q4,True,moyen,0,0.59111476
+responsable marketing digital,bordeaux,stage,débutant (0-2 ans),0.0250072748435908,2021-10-29,0.25,q4,True,moyen,0,0.44674724
+ingénieur ia,paris,cdd,confirmé (5-8 ans),0.5868070711479704,2021-10-30,0.25,q4,True,élevé,1,0.47765684
+développeur full stack,lyon,cdi,confirmé (5-8 ans),0.474692637858286,2021-11-01,0.25,q4,False,moyen,1,0.44612128
+responsable marketing digital,paris,cdi,senior (8+ ans),0.6259184490033465,2021-11-02,0.25,q4,False,moyen,1,0.44674724
+business analyst,lyon,cdi,intermédiaire (2-5 ans),0.3877309762840099,2021-11-05,0.25,q4,True,élevé,0,0.42929092
+ingénieur devops,montpellier,cdd,débutant (0-2 ans),0.3331969300160046,2021-11-10,0.25,q4,False,moyen,1,0.6240608
+ingénieur devops,paris,cdi,confirmé (5-8 ans),0.5282445802415248,2021-11-11,0.25,q4,True,moyen,0,0.6240608
+ingénieur devops,rennes,cdi,débutant (0-2 ans),0.2737159901062127,2021-11-15,0.25,q4,False,moyen,1,0.6240608
+développeur full stack,paris,cdi,intermédiaire (2-5 ans),0.3722992143168921,2021-11-16,0.25,q4,True,élevé,1,0.44612128
+data scientist,toulouse,cdi,débutant (0-2 ans),0.3456460061108686,2021-11-18,0.25,q4,False,moyen,1,0.5588574
+chef de projet digital,lille,stage,intermédiaire (2-5 ans),0.0573803288229303,2021-11-18,0.25,q4,False,faible,1,0.59111476
+ingénieur devops,strasbourg,alternance,intermédiaire (2-5 ans),0.1256547359231776,2021-11-20,0.25,q4,True,faible,0,0.6240608
+responsable marketing digital,lyon,cdi,intermédiaire (2-5 ans),0.4041357485814055,2021-11-23,0.25,q4,True,faible,1,0.44674724
+chef de projet digital,bordeaux,cdi,intermédiaire (2-5 ans),0.4593609049905427,2021-11-24,0.25,q4,False,faible,0,0.59111476
+consultant cybersécurité,lyon,cdd,intermédiaire (2-5 ans),0.5713207478539212,2021-11-25,0.25,q4,True,moyen,1,0.63575613
+architecte cloud,lille,freelance,débutant (0-2 ans),0.5314909791939473,2021-11-28,0.25,q4,False,moyen,0,0.35840565
+ux/ui designer,paris,cdd,senior (8+ ans),0.6418685435763131,2021-11-30,0.25,q4,False,moyen,1,0.5471124
+chef de projet digital,nantes,cdi,débutant (0-2 ans),0.3091262912847374,2021-11-30,0.25,q4,True,faible,1,0.5911443
+ingénieur ia,toulouse,stage,intermédiaire (2-5 ans),0.0647552015131674,2021-11-30,0.25,q4,False,faible,0,0.4776264
+chef de projet digital,paris,cdi,intermédiaire (2-5 ans),0.4530954459479121,2021-12-03,0.25,q4,False,moyen,1,0.59111476
+responsable marketing digital,lyon,cdd,débutant (0-2 ans),0.3427997235559435,2021-12-04,0.25,q4,True,faible,0,0.44674724
+développeur full stack,paris,freelance,confirmé (5-8 ans),0.7498181289102285,2021-12-07,0.25,q4,False,élevé,0,0.44612128
+responsable marketing digital,marseille,cdi,intermédiaire (2-5 ans),0.3917957951404044,2021-12-11,0.25,q4,True,faible,1,0.44674724
+commercial b2b,paris,cdi,intermédiaire (2-5 ans),0.3429543139822494,2021-12-11,0.25,q4,True,élevé,0,0.58136237
+commercial b2b,paris,cdi,intermédiaire (2-5 ans),0.3870489596973665,2021-12-12,0.25,q4,True,élevé,1,0.58136237
+data scientist,toulouse,cdi,confirmé (5-8 ans),0.6238542121344391,2021-12-14,0.25,q4,True,moyen,1,0.5588574
+ingénieur ia,lille,cdi,débutant (0-2 ans),0.314527862650953,2021-12-16,0.25,q4,True,moyen,0,0.47765684
+product owner,marseille,cdi,débutant (0-2 ans),0.300460133857122,2021-12-18,0.25,q4,True,moyen,1,0.5584586
+commercial b2b,rennes,stage,intermédiaire (2-5 ans),0.0369198312236286,2021-12-20,0.25,q4,True,élevé,1,0.58136237
+business analyst,paris,stage,confirmé (5-8 ans),0.0857158446093409,2021-12-20,0.25,q4,True,moyen,0,0.42929092
+ingénieur ia,paris,cdi,débutant (0-2 ans),0.3011694311072312,2021-12-24,0.25,q4,False,moyen,0,0.47765684
+business analyst,paris,cdd,intermédiaire (2-5 ans),0.448803288229303,2021-12-27,0.25,q4,True,moyen,1,0.42929092
+contrôleur de gestion,lyon,cdi,senior (8+ ans),0.6267732431252728,2021-12-28,0.25,q4,True,moyen,0,0.35000122
+commercial b2b,lyon,stage,débutant (0-2 ans),0.0,2021-12-29,0.25,q4,False,moyen,0,0.58136237
+business analyst,marseille,cdi,confirmé (5-8 ans),0.4376636839807944,2021-12-30,0.25,q4,True,faible,0,0.42929092
+data scientist,paris,cdi,débutant (0-2 ans),0.3609868325331005,2021-12-31,0.25,q4,True,moyen,1,0.5588574
+chargé de communication,rennes,cdi,intermédiaire (2-5 ans),0.3058617052233377,2022-01-01,0.5,q1,True,faible,1,0.6947753
+chef de projet digital,strasbourg,cdi,confirmé (5-8 ans),0.6115142586934381,2022-01-02,0.5,q1,True,moyen,0,0.59111476
+développeur full stack,paris,cdd,intermédiaire (2-5 ans),0.5053833842572385,2022-01-09,0.5,q1,True,élevé,1,0.44612128
+chef de projet digital,montpellier,cdi,intermédiaire (2-5 ans),0.4208769823948785,2022-01-18,0.5,q1,True,moyen,0,0.59111476
+ux/ui designer,paris,cdi,intermédiaire (2-5 ans),0.3293321693583588,2022-01-25,0.5,q1,False,moyen,0,0.5471124
+développeur full stack,paris,cdi,senior (8+ ans),0.6733504292157718,2022-01-31,0.5,q1,True,moyen,0,0.44612128
+responsable marketing digital,nantes,cdi,intermédiaire (2-5 ans),0.3849301615015277,2022-01-31,0.5,q1,True,élevé,0,0.44674724
+responsable rh,marseille,cdi,confirmé (5-8 ans),0.5621635384839226,2022-01-31,0.5,q1,True,élevé,1,0.4071675
+chef de projet digital,paris,cdi,confirmé (5-8 ans),0.5803870216790339,2022-02-01,0.5,q1,True,moyen,1,0.59111476
+chef de projet digital,lyon,cdi,intermédiaire (2-5 ans),0.4708187836461516,2022-02-03,0.5,q1,True,moyen,0,0.59111476
+contrôleur de gestion,paris,freelance,senior (8+ ans),0.953077258838935,2022-02-05,0.5,q1,True,élevé,0,0.35000122
+développeur full stack,toulouse,cdi,confirmé (5-8 ans),0.4795122217372326,2022-02-06,0.5,q1,True,faible,1,0.44612128
+développeur full stack,paris,stage,confirmé (5-8 ans),0.1001564091372035,2022-02-08,0.5,q1,False,moyen,1,0.44612128
+product owner,paris,cdd,intermédiaire (2-5 ans),0.495362287210825,2022-02-14,0.5,q1,True,faible,0,0.5584624
+business analyst,lyon,freelance,intermédiaire (2-5 ans),0.5318365342645133,2022-02-14,0.5,q1,True,moyen,0,0.429261
+contrôleur de gestion,paris,cdi,intermédiaire (2-5 ans),0.3652789902517095,2022-02-14,0.5,q1,False,élevé,0,0.35000122
+data scientist,lille,cdi,intermédiaire (2-5 ans),0.4486577913574858,2022-02-16,0.5,q1,True,faible,0,0.5588574
+data scientist,paris,cdi,intermédiaire (2-5 ans),0.4545231340026189,2022-02-16,0.5,q1,True,moyen,1,0.5588574
+commercial b2b,lyon,freelance,confirmé (5-8 ans),0.7774443474465299,2022-02-17,0.5,q1,True,élevé,1,0.58136237
+data scientist,paris,cdi,confirmé (5-8 ans),0.6024297977593481,2022-02-17,0.5,q1,True,élevé,1,0.5588574
+ingénieur devops,rennes,freelance,débutant (0-2 ans),0.4776571366215626,2022-02-17,0.5,q1,True,moyen,0,0.6240608
+consultant cybersécurité,bordeaux,cdi,débutant (0-2 ans),0.3478466462971046,2022-02-19,0.5,q1,False,moyen,1,0.63575613
+commercial b2b,marseille,stage,intermédiaire (2-5 ans),0.0321275280081478,2022-02-22,0.5,q1,True,élevé,0,0.58136237
+consultant cybersécurité,lille,cdi,confirmé (5-8 ans),0.6163429361268733,2022-02-23,0.5,q1,True,moyen,1,0.63575613
+ux/ui designer,lille,cdi,intermédiaire (2-5 ans),0.3627782627673505,2022-02-23,0.5,q1,True,moyen,1,0.5471124
+data scientist,paris,cdi,confirmé (5-8 ans),0.6146515349919977,2022-02-23,0.5,q1,False,élevé,1,0.5588574
+consultant cybersécurité,lyon,cdi,débutant (0-2 ans),0.3149734468208933,2022-02-24,0.5,q1,True,moyen,1,0.63575613
+responsable marketing digital,bordeaux,cdd,intermédiaire (2-5 ans),0.47799359813764,2022-02-26,0.5,q1,True,élevé,0,0.44674724
+data scientist,paris,cdi,senior (8+ ans),0.7375054561326931,2022-03-04,0.5,q1,True,moyen,1,0.5588574
+commercial b2b,lyon,alternance,intermédiaire (2-5 ans),0.091408409719191,2022-03-07,0.5,q1,True,faible,1,0.58136237
+ux/ui designer,paris,cdi,intermédiaire (2-5 ans),0.3530936272370144,2022-03-08,0.5,q1,False,moyen,0,0.5471124
+ingénieur devops,toulouse,cdi,intermédiaire (2-5 ans),0.4378000872981231,2022-03-08,0.5,q1,True,moyen,1,0.6240608
+ingénieur devops,paris,alternance,débutant (0-2 ans),0.053870216790339,2022-03-15,0.5,q1,True,élevé,0,0.6240608
+développeur full stack,lyon,cdi,confirmé (5-8 ans),0.4892150443765459,2022-03-20,0.5,q1,True,moyen,0,0.44612128
+ingénieur devops,paris,stage,débutant (0-2 ans),0.0348465008002327,2022-03-23,0.5,q1,True,élevé,1,0.6240608
+chef de projet digital,paris,cdd,confirmé (5-8 ans),0.6603011785246617,2022-03-26,0.5,q1,False,faible,0,0.59111476
+ingénieur ia,paris,cdi,intermédiaire (2-5 ans),0.447812090790048,2022-03-26,0.5,q1,True,moyen,1,0.47765684
+développeur full stack,marseille,stage,intermédiaire (2-5 ans),0.0653280954459479,2022-03-28,0.5,q1,False,faible,0,0.44612128
+ingénieur devops,lyon,stage,senior (8+ ans),0.162019860323003,2022-03-29,0.5,q1,True,moyen,1,0.6240608
+ux/ui designer,toulouse,cdi,débutant (0-2 ans),0.2813000145496871,2022-03-29,0.5,q1,True,moyen,0,0.5471124
+architecte cloud,paris,cdi,débutant (0-2 ans),0.3635330277899025,2022-04-02,0.5,q2,True,moyen,0,0.35840565
+ingénieur ia,lyon,cdi,débutant (0-2 ans),0.3422268296231631,2022-04-04,0.5,q2,True,élevé,0,0.47765684
+consultant cybersécurité,lyon,cdi,confirmé (5-8 ans),0.5721937290848247,2022-04-04,0.5,q2,True,faible,1,0.63575613
+contrôleur de gestion,lille,cdi,confirmé (5-8 ans),0.4364906154517677,2022-04-04,0.5,q2,True,moyen,1,0.35000122
+développeur full stack,paris,cdd,confirmé (5-8 ans),0.5778226393132547,2022-04-07,0.5,q2,False,élevé,1,0.44612128
+chef de projet digital,marseille,cdi,débutant (0-2 ans),0.3241215626364033,2022-04-08,0.5,q2,False,élevé,1,0.5911443
+commercial b2b,lille,freelance,confirmé (5-8 ans),0.7441073766914011,2022-04-11,0.5,q2,False,moyen,1,0.58137727
+développeur full stack,paris,cdi,intermédiaire (2-5 ans),0.4276789611523352,2022-04-16,0.5,q2,True,moyen,0,0.44612128
+consultant cybersécurité,lille,cdi,intermédiaire (2-5 ans),0.5199785392114069,2022-04-18,0.5,q2,True,faible,0,0.63575613
+data scientist,toulouse,cdd,confirmé (5-8 ans),0.5791048304961444,2022-04-19,0.5,q2,False,moyen,1,0.5588574
+data scientist,paris,cdd,intermédiaire (2-5 ans),0.5016368398079442,2022-04-20,0.5,q2,True,faible,0,0.5588574
+business analyst,lyon,cdi,intermédiaire (2-5 ans),0.3995525971191619,2022-04-22,0.5,q2,False,élevé,0,0.42929092
+ingénieur devops,montpellier,cdd,débutant (0-2 ans),0.3331150880256074,2022-04-25,0.5,q2,True,élevé,1,0.6240608
+consultant cybersécurité,lyon,cdi,débutant (0-2 ans),0.3633602502546195,2022-04-25,0.5,q2,True,faible,1,0.63575613
+responsable marketing digital,paris,cdi,confirmé (5-8 ans),0.5231340026189437,2022-04-26,0.5,q2,True,moyen,0,0.44674724
+contrôleur de gestion,lille,cdi,senior (8+ ans),0.7094154663174742,2022-04-28,0.5,q2,False,élevé,0,0.35000122
+développeur full stack,montpellier,cdd,débutant (0-2 ans),0.3460279353993889,2022-04-28,0.5,q2,True,élevé,0,0.44612128
+ingénieur ia,bordeaux,cdi,confirmé (5-8 ans),0.5853339153208206,2022-04-28,0.5,q2,False,élevé,0,0.47765684
+data scientist,nantes,cdd,confirmé (5-8 ans),0.6666484795576895,2022-04-29,0.5,q2,True,moyen,1,0.5588574
+ux/ui designer,paris,cdd,intermédiaire (2-5 ans),0.3850392841553907,2022-04-29,0.5,q2,True,élevé,1,0.5471124
+consultant cybersécurité,lyon,cdi,intermédiaire (2-5 ans),0.454886876182162,2022-04-29,0.5,q2,True,moyen,0,0.63575613
+product owner,paris,cdi,intermédiaire (2-5 ans),0.4275880256074494,2022-05-01,0.5,q2,True,moyen,0,0.5584586
+ingénieur ia,paris,cdi,débutant (0-2 ans),0.3581041757602211,2022-05-01,0.5,q2,True,élevé,1,0.47765684
+architecte cloud,rennes,cdi,intermédiaire (2-5 ans),0.4833769823948785,2022-05-05,0.5,q2,True,élevé,0,0.35840565
+product owner,nantes,cdd,senior (8+ ans),0.7169267423250401,2022-05-05,0.5,q2,False,moyen,1,0.5584586
+business analyst,paris,cdi,débutant (0-2 ans),0.3070893350792958,2022-05-05,0.5,q2,True,moyen,1,0.42929092
+consultant cybersécurité,paris,cdd,confirmé (5-8 ans),0.6384493670886076,2022-05-09,0.5,q2,True,élevé,1,0.63575613
+développeur full stack,toulouse,cdi,senior (8+ ans),0.6752509821038848,2022-05-11,0.5,q2,True,moyen,0,0.44612128
+contrôleur de gestion,strasbourg,cdi,intermédiaire (2-5 ans),0.4082642223192201,2022-05-11,0.5,q2,False,moyen,0,0.35000122
+consultant cybersécurité,rennes,cdd,intermédiaire (2-5 ans),0.5304543139822494,2022-05-12,0.5,q2,False,élevé,1,0.63575613
+business analyst,bordeaux,cdi,intermédiaire (2-5 ans),0.3837934671904554,2022-05-12,0.5,q2,False,faible,0,0.42929092
+chef de projet digital,strasbourg,freelance,intermédiaire (2-5 ans),0.5863342063145642,2022-05-16,0.5,q2,False,moyen,1,0.59111476
+consultant cybersécurité,rennes,cdd,intermédiaire (2-5 ans),0.5763131092681507,2022-05-16,0.5,q2,True,moyen,1,0.63575613
+consultant cybersécurité,paris,alternance,confirmé (5-8 ans),0.2127437072602939,2022-05-19,0.5,q2,False,élevé,0,0.63575613
+ingénieur devops,lyon,cdi,débutant (0-2 ans),0.2945129492215917,2022-05-22,0.5,q2,True,élevé,1,0.6240608
+développeur full stack,paris,cdi,intermédiaire (2-5 ans),0.3970882438527571,2022-05-22,0.5,q2,True,moyen,1,0.44612128
+chef de projet digital,paris,cdi,intermédiaire (2-5 ans),0.4430743489014986,2022-05-25,0.5,q2,True,élevé,0,0.59111476
+architecte cloud,rennes,cdi,débutant (0-2 ans),0.3638058344245599,2022-05-26,0.5,q2,True,élevé,1,0.35841972
+responsable marketing digital,toulouse,freelance,senior (8+ ans),0.9939527862650952,2022-05-30,0.5,q2,True,faible,1,0.44683775
+commercial b2b,paris,cdi,débutant (0-2 ans),0.2963316601193074,2022-05-30,0.5,q2,True,moyen,1,0.58136237
+ingénieur ia,marseille,stage,intermédiaire (2-5 ans),0.070847883020515,2022-06-01,0.5,q2,True,moyen,1,0.47765684
+ux/ui designer,paris,cdi,intermédiaire (2-5 ans),0.4130201513167467,2022-06-03,0.5,q2,True,élevé,0,0.5471124
+product owner,paris,alternance,confirmé (5-8 ans),0.1631474610795867,2022-06-05,0.5,q2,True,moyen,1,0.5584586
+chargé de communication,paris,cdd,confirmé (5-8 ans),0.5076294922159174,2022-06-06,0.5,q2,True,moyen,1,0.6947753
+data scientist,toulouse,stage,intermédiaire (2-5 ans),0.0809053542848828,2022-06-13,0.5,q2,True,élevé,0,0.5588574
+consultant cybersécurité,bordeaux,freelance,intermédiaire (2-5 ans),0.7625672923032155,2022-06-14,0.5,q2,True,élevé,0,0.63575613
+développeur full stack,montpellier,stage,intermédiaire (2-5 ans),0.0532063873126727,2022-06-15,0.5,q2,True,élevé,1,0.44612128
+commercial b2b,paris,freelance,confirmé (5-8 ans),0.7236286919831224,2022-06-16,0.5,q2,False,moyen,1,0.58136237
+data scientist,paris,cdi,senior (8+ ans),0.8326604103011785,2022-06-19,0.5,q2,False,moyen,1,0.5588574
+développeur full stack,montpellier,cdd,débutant (0-2 ans),0.3042885202968136,2022-06-20,0.5,q2,True,moyen,1,0.44612128
+développeur full stack,marseille,cdi,senior (8+ ans),0.6363396624472574,2022-06-24,0.5,q2,True,faible,0,0.44612128
+développeur full stack,rennes,cdi,intermédiaire (2-5 ans),0.3802015131674669,2022-06-30,0.5,q2,True,élevé,1,0.44612128
+product owner,paris,cdi,débutant (0-2 ans),0.3392168630874436,2022-07-06,0.5,q3,False,moyen,1,0.5584586
+product owner,paris,cdi,intermédiaire (2-5 ans),0.388676705950822,2022-07-07,0.5,q3,False,moyen,1,0.5584586
+commercial b2b,nantes,cdi,intermédiaire (2-5 ans),0.3410719482031136,2022-07-08,0.5,q3,False,élevé,0,0.58136237
+responsable rh,lyon,cdd,intermédiaire (2-5 ans),0.4965171686308744,2022-07-09,0.5,q3,True,moyen,0,0.4071675
+architecte cloud,paris,stage,confirmé (5-8 ans),0.1382493088898588,2022-07-10,0.5,q3,True,faible,0,0.35840565
+développeur full stack,lyon,cdd,intermédiaire (2-5 ans),0.4623435908627964,2022-07-11,0.5,q3,True,élevé,0,0.44612128
+développeur full stack,paris,cdi,débutant (0-2 ans),0.2978139095009457,2022-07-13,0.5,q3,True,moyen,1,0.44612128
+data scientist,toulouse,cdi,intermédiaire (2-5 ans),0.4953986614287793,2022-07-13,0.5,q3,False,moyen,1,0.5588574
+ingénieur ia,marseille,cdi,confirmé (5-8 ans),0.5796959115379019,2022-07-15,0.5,q3,True,moyen,1,0.47765684
+commercial b2b,lille,cdi,intermédiaire (2-5 ans),0.396615379019351,2022-07-15,0.5,q3,True,moyen,1,0.58136237
+responsable rh,bordeaux,stage,débutant (0-2 ans),0.0249618070711479,2022-07-17,0.5,q3,True,faible,0,0.4071675
+contrôleur de gestion,paris,cdi,débutant (0-2 ans),0.2464171395315,2022-07-20,0.5,q3,True,moyen,1,0.35000122
+chef de projet digital,marseille,freelance,débutant (0-2 ans),0.4271606285464862,2022-07-27,0.5,q3,True,moyen,1,0.59111476
+ingénieur ia,nantes,cdd,débutant (0-2 ans),0.3940873708715263,2022-07-30,0.5,q3,True,élevé,1,0.47765684
+consultant cybersécurité,paris,cdd,senior (8+ ans),0.809890149861778,2022-07-30,0.5,q3,True,élevé,1,0.63575613
+commercial b2b,paris,cdd,intermédiaire (2-5 ans),0.4305979921431689,2022-07-30,0.5,q3,True,moyen,0,0.58136237
+data scientist,rennes,cdi,confirmé (5-8 ans),0.602520733304234,2022-08-01,0.5,q3,False,faible,0,0.5588574
+développeur full stack,paris,cdi,intermédiaire (2-5 ans),0.3800651098501382,2022-08-01,0.5,q3,True,moyen,1,0.44615144
+ingénieur ia,bordeaux,cdd,débutant (0-2 ans),0.4140386294194675,2022-08-03,0.5,q3,False,élevé,0,0.4776264
+data scientist,paris,cdi,intermédiaire (2-5 ans),0.4123381347301033,2022-08-04,0.5,q3,False,élevé,0,0.5588574
+business analyst,paris,cdi,débutant (0-2 ans),0.3159555507056598,2022-08-05,0.5,q3,True,moyen,1,0.42929092
+développeur full stack,paris,stage,débutant (0-2 ans),0.0178233667976138,2022-08-05,0.5,q3,False,moyen,0,0.44612128
+product owner,toulouse,cdi,confirmé (5-8 ans),0.4804397642950676,2022-08-06,0.5,q3,True,moyen,0,0.5584586
+consultant cybersécurité,paris,cdd,senior (8+ ans),0.8704623163101993,2022-08-07,0.5,q3,True,moyen,1,0.63575613
+développeur full stack,marseille,cdd,débutant (0-2 ans),0.375691110141132,2022-08-09,0.5,q3,True,moyen,0,0.44612128
+data scientist,bordeaux,stage,intermédiaire (2-5 ans),0.0541884911974392,2022-08-10,0.5,q3,True,moyen,1,0.5588574
+ux/ui designer,lille,stage,confirmé (5-8 ans),0.0783955332460352,2022-08-12,0.5,q3,True,faible,1,0.5471124
+développeur full stack,paris,cdi,débutant (0-2 ans),0.3082896842717881,2022-08-13,0.5,q3,True,moyen,0,0.44612128
+développeur full stack,paris,cdd,confirmé (5-8 ans),0.5960006547359232,2022-08-13,0.5,q3,True,faible,1,0.44612128
+product owner,paris,cdi,débutant (0-2 ans),0.3368070711479703,2022-08-19,0.5,q3,True,moyen,1,0.5584586
+data scientist,strasbourg,freelance,débutant (0-2 ans),0.4452840826422232,2022-08-19,0.5,q3,False,faible,0,0.5588574
+chef de projet digital,paris,cdi,intermédiaire (2-5 ans),0.3805288811290557,2022-08-19,0.5,q3,True,moyen,0,0.59111476
+ingénieur devops,lyon,cdi,débutant (0-2 ans),0.3120998836025025,2022-08-20,0.5,q3,False,moyen,1,0.6240608
+data scientist,paris,cdi,confirmé (5-8 ans),0.5583897133711625,2022-08-21,0.5,q3,True,moyen,1,0.5588574
+responsable marketing digital,lille,cdd,débutant (0-2 ans),0.2914393278044522,2022-08-22,0.5,q3,True,élevé,0,0.44674724
+contrôleur de gestion,toulouse,cdi,confirmé (5-8 ans),0.4560144769387458,2022-08-24,0.5,q3,True,moyen,1,0.35000122
+commercial b2b,strasbourg,alternance,intermédiaire (2-5 ans),0.0815328095445948,2022-08-28,0.5,q3,True,faible,1,0.58136237
+architecte cloud,toulouse,cdi,intermédiaire (2-5 ans),0.5204877782627674,2022-08-29,0.5,q3,True,faible,1,0.35840565
+data scientist,paris,cdi,intermédiaire (2-5 ans),0.4617979775934817,2022-08-31,0.5,q3,False,moyen,0,0.5588574
+chargé de communication,paris,stage,confirmé (5-8 ans),0.058507929579514,2022-09-04,0.5,q3,True,élevé,1,0.6947753
+développeur full stack,paris,cdi,confirmé (5-8 ans),0.5991924923614143,2022-09-04,0.5,q3,True,moyen,0,0.44612128
+chargé de communication,toulouse,cdd,intermédiaire (2-5 ans),0.4031172704786847,2022-09-06,0.5,q3,True,moyen,1,0.6947753
+ingénieur devops,marseille,freelance,intermédiaire (2-5 ans),0.639540593627237,2022-09-07,0.5,q3,False,élevé,0,0.6240608
+développeur full stack,strasbourg,cdi,débutant (0-2 ans),0.2863105630728939,2022-09-09,0.5,q3,True,élevé,0,0.44612128
+commercial b2b,montpellier,cdi,senior (8+ ans),0.5532063873126728,2022-09-10,0.5,q3,True,élevé,1,0.58136237
+architecte cloud,paris,freelance,intermédiaire (2-5 ans),0.7208187836461516,2022-09-12,0.5,q3,False,moyen,0,0.35840565
+ux/ui designer,bordeaux,cdi,débutant (0-2 ans),0.2307489451476793,2022-09-14,0.5,q3,True,moyen,0,0.5471124
+business analyst,bordeaux,cdi,débutant (0-2 ans),0.3096264367816091,2022-09-18,0.5,q3,False,faible,0,0.42929092
+ingénieur ia,lyon,cdi,débutant (0-2 ans),0.3482194820311363,2022-09-18,0.5,q3,True,élevé,1,0.47765684
+ingénieur ia,montpellier,alternance,intermédiaire (2-5 ans),0.1436235995926087,2022-09-19,0.5,q3,True,moyen,0,0.4776264
+ux/ui designer,rennes,cdi,intermédiaire (2-5 ans),0.3417084970173141,2022-09-19,0.5,q3,False,moyen,0,0.54723346
+data scientist,marseille,cdd,débutant (0-2 ans),0.3363069256510985,2022-09-21,0.5,q3,True,élevé,0,0.5588574
+responsable marketing digital,marseille,cdi,débutant (0-2 ans),0.2894478393714535,2022-09-22,0.5,q3,True,moyen,0,0.44674724
+consultant cybersécurité,paris,stage,débutant (0-2 ans),0.0316455696202531,2022-09-22,0.5,q3,True,moyen,0,0.63575613
+développeur full stack,paris,cdi,confirmé (5-8 ans),0.5657554925069112,2022-09-24,0.5,q3,True,moyen,1,0.44612128
+commercial b2b,lyon,stage,débutant (0-2 ans),0.0070565982831369,2022-09-27,0.5,q3,True,moyen,0,0.58136237
+responsable marketing digital,montpellier,cdd,confirmé (5-8 ans),0.5960279353993889,2022-09-30,0.5,q3,True,moyen,0,0.44674724
+chef de projet digital,lyon,cdi,confirmé (5-8 ans),0.581851083951695,2022-10-04,0.5,q4,True,moyen,1,0.59111476
+data scientist,toulouse,cdi,intermédiaire (2-5 ans),0.4384457296668121,2022-10-05,0.5,q4,True,faible,0,0.5588574
+développeur full stack,paris,stage,débutant (0-2 ans),0.0201604103011785,2022-10-06,0.5,q4,True,moyen,0,0.44612128
+développeur full stack,bordeaux,stage,confirmé (5-8 ans),0.0963825840244434,2022-10-09,0.5,q4,False,moyen,0,0.44612128
+architecte cloud,paris,freelance,confirmé (5-8 ans),0.4248008511567001,2022-10-09,0.5,q4,True,élevé,0,0.35840565
+développeur full stack,strasbourg,cdi,senior (8+ ans),0.6556543721809981,2022-10-10,0.5,q4,True,faible,0,0.44612128
+consultant cybersécurité,lyon,cdi,confirmé (5-8 ans),0.6313836752509822,2022-10-10,0.5,q4,True,moyen,1,0.63575613
+développeur full stack,bordeaux,cdd,confirmé (5-8 ans),0.6537629128473738,2022-10-12,0.5,q4,False,moyen,0,0.44612128
+ingénieur ia,paris,cdi,débutant (0-2 ans),0.3685253892041321,2022-10-12,0.5,q4,True,faible,0,0.47765684
+chargé de communication,paris,cdi,débutant (0-2 ans),0.2689782482176633,2022-10-13,0.5,q4,False,moyen,0,0.6947753
+commercial b2b,paris,cdi,confirmé (5-8 ans),0.4526043940055289,2022-10-14,0.5,q4,True,faible,0,0.58136237
+commercial b2b,bordeaux,cdi,intermédiaire (2-5 ans),0.3876582278481013,2022-10-16,0.5,q4,True,élevé,0,0.58136237
+ingénieur ia,paris,cdi,intermédiaire (2-5 ans),0.5185144769387459,2022-10-16,0.5,q4,True,élevé,1,0.47765684
+chargé de communication,bordeaux,cdi,intermédiaire (2-5 ans),0.315455405208788,2022-10-16,0.5,q4,True,élevé,0,0.6947753
+ingénieur devops,lille,stage,confirmé (5-8 ans),0.0898352247926669,2022-10-18,0.5,q4,True,moyen,0,0.6240608
+développeur full stack,bordeaux,cdi,confirmé (5-8 ans),0.5025189145933362,2022-10-20,0.5,q4,True,élevé,0,0.44612128
+responsable marketing digital,montpellier,cdd,intermédiaire (2-5 ans),0.4785483049614433,2022-10-21,0.5,q4,False,moyen,0,0.44674724
+chef de projet digital,paris,cdd,débutant (0-2 ans),0.3119725738396624,2022-10-23,0.5,q4,True,faible,1,0.59111476
+développeur full stack,paris,cdd,confirmé (5-8 ans),0.5333551578641059,2022-10-24,0.5,q4,False,moyen,1,0.44612128
+ux/ui designer,bordeaux,cdi,intermédiaire (2-5 ans),0.3454732285755856,2022-10-30,0.5,q4,True,moyen,0,0.5471124
+ingénieur ia,toulouse,freelance,confirmé (5-8 ans),0.8853029972355594,2022-10-30,0.5,q4,True,moyen,1,0.47765684
+développeur full stack,nantes,cdi,débutant (0-2 ans),0.3292503273679616,2022-11-02,0.5,q4,True,faible,0,0.44612128
+développeur full stack,paris,cdd,intermédiaire (2-5 ans),0.4244507493088899,2022-11-04,0.5,q4,False,moyen,0,0.44612128
+chargé de communication,paris,cdi,confirmé (5-8 ans),0.5020369562054415,2022-11-05,0.5,q4,True,élevé,1,0.6947753
+développeur full stack,lyon,cdd,intermédiaire (2-5 ans),0.5154408555216062,2022-11-07,0.5,q4,False,élevé,0,0.44615144
+product owner,paris,cdd,débutant (0-2 ans),0.3692801542266841,2022-11-14,0.5,q4,True,élevé,0,0.5584624
+data scientist,lyon,cdd,confirmé (5-8 ans),0.6302469809399098,2022-11-15,0.5,q4,False,moyen,1,0.5588574
+ux/ui designer,toulouse,freelance,débutant (0-2 ans),0.4485941364760658,2022-11-16,0.5,q4,True,moyen,0,0.5471124
+responsable marketing digital,paris,cdi,confirmé (5-8 ans),0.5328004510403026,2022-11-17,0.5,q4,True,moyen,0,0.44674724
+développeur full stack,nantes,cdi,débutant (0-2 ans),0.308680707114797,2022-11-19,0.5,q4,True,moyen,0,0.44612128
+ux/ui designer,paris,cdi,confirmé (5-8 ans),0.51471337116252,2022-11-20,0.5,q4,True,élevé,0,0.5471124
+data scientist,toulouse,freelance,confirmé (5-8 ans),0.8032063873126728,2022-11-24,0.5,q4,True,moyen,0,0.5588574
+ingénieur devops,paris,stage,intermédiaire (2-5 ans),0.0538429361268732,2022-11-24,0.5,q4,True,élevé,1,0.6240608
+product owner,rennes,cdd,débutant (0-2 ans),0.3008420631456424,2022-11-26,0.5,q4,True,faible,1,0.5584586
+développeur full stack,paris,cdi,débutant (0-2 ans),0.3066892186817983,2022-11-28,0.5,q4,True,moyen,0,0.44612128
+architecte cloud,montpellier,cdi,intermédiaire (2-5 ans),0.548068529026626,2022-11-29,0.5,q4,True,élevé,1,0.35840565
+développeur full stack,paris,cdi,confirmé (5-8 ans),0.5959642805179689,2022-11-30,0.5,q4,True,moyen,1,0.44612128
+ingénieur devops,lyon,cdi,confirmé (5-8 ans),0.5635457587661865,2022-12-02,0.5,q4,False,faible,0,0.6240608
+développeur full stack,marseille,cdi,intermédiaire (2-5 ans),0.4372726611377855,2022-12-03,0.5,q4,False,moyen,0,0.44612128
+business analyst,lille,alternance,intermédiaire (2-5 ans),0.1060308453368252,2022-12-06,0.5,q4,True,faible,1,0.42929092
+chef de projet digital,strasbourg,cdi,intermédiaire (2-5 ans),0.3899043358067801,2022-12-16,0.5,q4,False,moyen,1,0.59111476
+développeur full stack,toulouse,cdd,confirmé (5-8 ans),0.573675978466463,2022-12-22,0.5,q4,True,moyen,0,0.44612128
+chargé de communication,paris,stage,confirmé (5-8 ans),0.0502691692128619,2022-12-27,0.5,q4,True,moyen,1,0.6947753
+ingénieur devops,bordeaux,cdi,confirmé (5-8 ans),0.6351575003637422,2022-12-28,0.5,q4,False,élevé,1,0.6240608
+product owner,lyon,cdd,confirmé (5-8 ans),0.6845991561181435,2023-01-03,0.75,q1,True,moyen,1,0.5584586
+ingénieur devops,montpellier,freelance,intermédiaire (2-5 ans),0.6812072602939037,2023-01-07,0.75,q1,False,moyen,0,0.6240608
+contrôleur de gestion,rennes,cdi,intermédiaire (2-5 ans),0.3927688054706824,2023-01-07,0.75,q1,True,moyen,1,0.35000122
+responsable rh,bordeaux,freelance,confirmé (5-8 ans),0.8403626509530046,2023-01-09,0.75,q1,True,moyen,1,0.4071675
+responsable marketing digital,nantes,cdi,intermédiaire (2-5 ans),0.3826931470973374,2023-01-12,0.75,q1,True,moyen,1,0.44674724
+data scientist,nantes,cdi,senior (8+ ans),0.7773715990106213,2023-01-14,0.75,q1,True,élevé,1,0.5588574
+consultant cybersécurité,paris,cdd,confirmé (5-8 ans),0.7152626218536301,2023-01-17,0.75,q1,True,élevé,0,0.63575613
+chef de projet digital,montpellier,freelance,confirmé (5-8 ans),0.7445802415248072,2023-01-19,0.75,q1,False,élevé,0,0.59111476
+ux/ui designer,marseille,freelance,intermédiaire (2-5 ans),0.5638094718463553,2023-01-21,0.75,q1,False,faible,1,0.5471124
+développeur full stack,paris,cdd,débutant (0-2 ans),0.3042430525243707,2023-01-23,0.75,q1,True,élevé,1,0.44612128
+chef de projet digital,lyon,freelance,intermédiaire (2-5 ans),0.5967190455405209,2023-01-25,0.75,q1,True,moyen,0,0.59111476
+business analyst,nantes,cdi,intermédiaire (2-5 ans),0.3645696930016004,2023-01-31,0.75,q1,True,moyen,0,0.42929092
+business analyst,paris,cdi,intermédiaire (2-5 ans),0.3687527280663465,2023-02-01,0.75,q1,True,faible,0,0.429261
+commercial b2b,nantes,cdi,débutant (0-2 ans),0.255910810417576,2023-02-02,0.75,q1,True,élevé,0,0.58137727
+commercial b2b,paris,cdi,intermédiaire (2-5 ans),0.3561308744361996,2023-02-04,0.75,q1,True,moyen,1,0.58136237
+chef de projet digital,paris,cdd,intermédiaire (2-5 ans),0.4899334351811436,2023-02-04,0.75,q1,False,élevé,0,0.59111476
+ingénieur ia,marseille,cdd,confirmé (5-8 ans),0.6975210970464135,2023-02-04,0.75,q1,False,élevé,0,0.47765684
+product owner,nantes,cdd,intermédiaire (2-5 ans),0.4822766623017605,2023-02-06,0.75,q1,False,faible,0,0.5584586
+data scientist,lyon,cdi,confirmé (5-8 ans),0.5666921286192347,2023-02-09,0.75,q1,True,moyen,1,0.5588574
+développeur full stack,lyon,cdi,senior (8+ ans),0.7424887239924342,2023-02-10,0.75,q1,True,moyen,1,0.44612128
+data scientist,marseille,freelance,débutant (0-2 ans),0.4801033027789902,2023-02-11,0.75,q1,False,élevé,1,0.5588574
+commercial b2b,strasbourg,cdi,intermédiaire (2-5 ans),0.3850392841553907,2023-02-13,0.75,q1,True,élevé,1,0.58136237
+commercial b2b,paris,stage,senior (8+ ans),0.1088134730103302,2023-02-14,0.75,q1,True,élevé,1,0.58136237
+architecte cloud,montpellier,cdi,débutant (0-2 ans),0.3898224938163829,2023-02-14,0.75,q1,False,faible,0,0.35840565
+ingénieur devops,lyon,cdd,débutant (0-2 ans),0.4075640186235996,2023-02-14,0.75,q1,True,moyen,1,0.6240608
+product owner,lyon,cdd,débutant (0-2 ans),0.3168739997090062,2023-02-15,0.75,q1,True,élevé,0,0.5584586
+product owner,paris,cdi,débutant (0-2 ans),0.3056798341335661,2023-02-17,0.75,q1,True,moyen,0,0.5584586
+contrôleur de gestion,montpellier,cdd,confirmé (5-8 ans),0.5244980357922304,2023-02-18,0.75,q1,True,moyen,0,0.35000122
+data scientist,lyon,cdi,débutant (0-2 ans),0.3749454386730685,2023-02-21,0.75,q1,True,moyen,1,0.5588574
+business analyst,toulouse,cdi,confirmé (5-8 ans),0.5618270769678452,2023-02-22,0.75,q1,False,faible,1,0.42929092
+développeur full stack,paris,cdd,intermédiaire (2-5 ans),0.4778117270478684,2023-02-25,0.75,q1,True,moyen,0,0.44612128
+ingénieur ia,rennes,cdi,intermédiaire (2-5 ans),0.4618161647024589,2023-02-27,0.75,q1,False,moyen,0,0.47765684
+responsable marketing digital,toulouse,cdi,intermédiaire (2-5 ans),0.4038538483922596,2023-02-27,0.75,q1,True,moyen,1,0.44674724
+ux/ui designer,strasbourg,cdi,confirmé (5-8 ans),0.5231249090644551,2023-02-28,0.75,q1,False,moyen,1,0.5471124
+product owner,marseille,cdi,débutant (0-2 ans),0.3212934671904554,2023-03-01,0.75,q1,True,faible,0,0.5584586
+ingénieur ia,lille,cdi,senior (8+ ans),0.850556525534701,2023-03-02,0.75,q1,True,élevé,1,0.47765684
+ingénieur devops,paris,freelance,confirmé (5-8 ans),0.8386075949367089,2023-03-03,0.75,q1,True,élevé,1,0.6240608
+data scientist,toulouse,freelance,débutant (0-2 ans),0.5550705659828313,2023-03-06,0.75,q1,True,élevé,0,0.5588574
+consultant cybersécurité,toulouse,cdi,confirmé (5-8 ans),0.6602557107522188,2023-03-09,0.75,q1,True,moyen,1,0.63575613
+développeur full stack,bordeaux,cdi,débutant (0-2 ans),0.2945311363305689,2023-03-10,0.75,q1,True,élevé,1,0.44612128
+product owner,marseille,cdi,senior (8+ ans),0.6933289684271788,2023-03-13,0.75,q1,True,élevé,1,0.5584586
+data scientist,lille,cdi,intermédiaire (2-5 ans),0.5222246471700859,2023-03-16,0.75,q1,True,élevé,1,0.5588574
+data scientist,paris,cdi,intermédiaire (2-5 ans),0.4661901644114651,2023-03-18,0.75,q1,True,moyen,1,0.5588574
+consultant cybersécurité,lyon,freelance,confirmé (5-8 ans),1.0,2023-03-20,0.75,q1,True,moyen,1,0.63575613
+data scientist,paris,cdi,confirmé (5-8 ans),0.6289556962025317,2023-03-21,0.75,q1,True,faible,1,0.5588574
+commercial b2b,lyon,alternance,intermédiaire (2-5 ans),0.1092135894078277,2023-03-23,0.75,q1,True,moyen,0,0.58137727
+ingénieur devops,paris,cdi,intermédiaire (2-5 ans),0.5014095009457297,2023-03-25,0.75,q1,True,moyen,0,0.6240608
+responsable rh,paris,freelance,intermédiaire (2-5 ans),0.6155245162229012,2023-03-26,0.75,q1,False,élevé,1,0.4071675
+responsable marketing digital,lyon,cdi,confirmé (5-8 ans),0.5484231776516805,2023-03-26,0.75,q1,True,moyen,0,0.44674724
+ingénieur ia,lyon,stage,intermédiaire (2-5 ans),0.0866888549396188,2023-03-28,0.75,q1,True,élevé,0,0.47765684
+consultant cybersécurité,paris,cdd,intermédiaire (2-5 ans),0.5491597555652553,2023-03-30,0.75,q1,True,élevé,0,0.63575613
+chef de projet digital,paris,cdi,confirmé (5-8 ans),0.5452677142441438,2023-04-02,0.75,q2,True,élevé,1,0.59111476
+data scientist,toulouse,stage,confirmé (5-8 ans),0.1165339007711334,2023-04-09,0.75,q2,False,moyen,0,0.5588574
+chef de projet digital,lyon,stage,intermédiaire (2-5 ans),0.0489778844754837,2023-04-18,0.75,q2,True,moyen,1,0.59111476
+data scientist,strasbourg,cdi,intermédiaire (2-5 ans),0.4222319220136767,2023-04-20,0.75,q2,True,faible,0,0.5588574
+data scientist,lyon,cdi,intermédiaire (2-5 ans),0.4346991852175178,2023-04-23,0.75,q2,True,moyen,0,0.5588574
+architecte cloud,rennes,cdi,intermédiaire (2-5 ans),0.5608631601920558,2023-04-24,0.75,q2,True,faible,1,0.35840565
+consultant cybersécurité,bordeaux,cdi,intermédiaire (2-5 ans),0.5031645569620253,2023-04-24,0.75,q2,True,moyen,1,0.63575613
+commercial b2b,paris,cdi,débutant (0-2 ans),0.2593572675687473,2023-04-28,0.75,q2,False,faible,0,0.58136237
+responsable rh,marseille,cdi,intermédiaire (2-5 ans),0.3932598574130656,2023-05-01,0.75,q2,True,élevé,1,0.4071675
+responsable marketing digital,marseille,cdi,confirmé (5-8 ans),0.5005638003782918,2023-05-02,0.75,q2,False,élevé,0,0.44674724
+product owner,paris,cdi,intermédiaire (2-5 ans),0.4028262767350501,2023-05-03,0.75,q2,True,élevé,1,0.5584586
+product owner,montpellier,cdi,débutant (0-2 ans),0.3461188709442747,2023-05-04,0.75,q2,True,moyen,1,0.5584586
+architecte cloud,nantes,cdi,intermédiaire (2-5 ans),0.5410392114069548,2023-05-04,0.75,q2,True,moyen,1,0.35840565
+commercial b2b,bordeaux,freelance,débutant (0-2 ans),0.4494125563800378,2023-05-09,0.75,q2,False,élevé,0,0.58136237
+ingénieur devops,paris,freelance,intermédiaire (2-5 ans),0.7302487996508075,2023-05-09,0.75,q2,True,élevé,1,0.6240608
+développeur full stack,lille,cdi,intermédiaire (2-5 ans),0.4695638731267277,2023-05-11,0.75,q2,True,élevé,0,0.44612128
+business analyst,paris,cdi,senior (8+ ans),0.7517823366797614,2023-05-12,0.75,q2,True,moyen,0,0.42929092
+développeur full stack,toulouse,cdi,senior (8+ ans),0.7516277462534555,2023-05-13,0.75,q2,True,élevé,0,0.44612128
+data scientist,bordeaux,stage,intermédiaire (2-5 ans),0.0704750472864833,2023-05-15,0.75,q2,True,moyen,1,0.5588574
+responsable marketing digital,bordeaux,cdi,confirmé (5-8 ans),0.5357194820311363,2023-05-15,0.75,q2,True,moyen,0,0.44674724
+ingénieur devops,toulouse,stage,débutant (0-2 ans),0.0238796740870071,2023-05-18,0.75,q2,False,moyen,1,0.6240608
+chef de projet digital,paris,freelance,intermédiaire (2-5 ans),0.647824821766332,2023-05-18,0.75,q2,True,élevé,1,0.59111476
+data scientist,toulouse,stage,confirmé (5-8 ans),0.1195529608613414,2023-05-20,0.75,q2,False,moyen,1,0.5588574
+business analyst,marseille,cdd,confirmé (5-8 ans),0.6106594645715118,2023-05-20,0.75,q2,True,élevé,1,0.42929092
+responsable marketing digital,paris,cdd,intermédiaire (2-5 ans),0.4659264513312964,2023-05-22,0.75,q2,True,moyen,0,0.44674724
+product owner,paris,cdi,senior (8+ ans),0.6736777971773606,2023-05-24,0.75,q2,True,moyen,1,0.5584624
+consultant cybersécurité,paris,stage,débutant (0-2 ans),0.0422213734904699,2023-05-25,0.75,q2,True,moyen,1,0.63574207
+chef de projet digital,paris,cdi,confirmé (5-8 ans),0.6024934526407683,2023-05-26,0.75,q2,False,faible,1,0.59111476
+commercial b2b,nantes,cdi,senior (8+ ans),0.6258911683398807,2023-05-28,0.75,q2,True,élevé,1,0.58136237
+développeur full stack,strasbourg,cdi,confirmé (5-8 ans),0.4992361414229594,2023-05-28,0.75,q2,True,moyen,0,0.44612128
+data scientist,paris,cdd,confirmé (5-8 ans),0.7057871380765314,2023-05-28,0.75,q2,False,faible,0,0.5588574
+responsable marketing digital,paris,cdi,confirmé (5-8 ans),0.5199148843299869,2023-05-30,0.75,q2,False,moyen,0,0.44674724
+data scientist,nantes,cdi,intermédiaire (2-5 ans),0.4849137931034483,2023-05-30,0.75,q2,True,élevé,0,0.5588574
+business analyst,paris,cdd,confirmé (5-8 ans),0.5451404044813036,2023-06-06,0.75,q2,True,moyen,1,0.42929092
+développeur full stack,paris,cdd,confirmé (5-8 ans),0.5565164411465153,2023-06-07,0.75,q2,False,faible,1,0.44612128
+architecte cloud,bordeaux,cdi,débutant (0-2 ans),0.3851211261457878,2023-06-08,0.75,q2,True,faible,0,0.35840565
+chef de projet digital,paris,cdi,débutant (0-2 ans),0.3354794121926379,2023-06-10,0.75,q2,True,faible,0,0.59111476
+développeur full stack,lyon,stage,intermédiaire (2-5 ans),0.0473592317765168,2023-06-12,0.75,q2,True,moyen,0,0.44612128
+responsable marketing digital,nantes,cdi,confirmé (5-8 ans),0.5157682234831951,2023-06-14,0.75,q2,True,élevé,0,0.44674724
+ingénieur devops,paris,cdi,intermédiaire (2-5 ans),0.4281882002036956,2023-06-14,0.75,q2,True,moyen,0,0.6240608
+chef de projet digital,paris,cdi,intermédiaire (2-5 ans),0.4417648770551433,2023-06-18,0.75,q2,True,faible,0,0.59111476
+développeur full stack,paris,cdd,intermédiaire (2-5 ans),0.5049105194238324,2023-06-18,0.75,q2,True,élevé,1,0.44612128
+responsable marketing digital,paris,stage,débutant (0-2 ans),0.0120762403608322,2023-06-19,0.75,q2,False,faible,1,0.44674724
+responsable marketing digital,rennes,cdi,intermédiaire (2-5 ans),0.4141113778553761,2023-06-23,0.75,q2,True,élevé,1,0.44674724
+consultant cybersécurité,marseille,cdi,confirmé (5-8 ans),0.6822530190600902,2023-06-23,0.75,q2,True,faible,1,0.63575613
+ingénieur ia,lyon,cdi,débutant (0-2 ans),0.3857485814054998,2023-06-26,0.75,q2,True,moyen,0,0.47765684
+ingénieur ia,paris,cdi,débutant (0-2 ans),0.3091808526116688,2023-06-28,0.75,q2,True,élevé,1,0.47765684
+développeur full stack,toulouse,freelance,intermédiaire (2-5 ans),0.5832060235704932,2023-06-29,0.75,q2,False,moyen,0,0.44612128
+business analyst,paris,alternance,confirmé (5-8 ans),0.1733413356612833,2023-07-03,0.75,q3,True,moyen,1,0.42929092
+développeur full stack,montpellier,stage,confirmé (5-8 ans),0.080232431252728,2023-07-07,0.75,q3,True,moyen,0,0.44612128
+ingénieur devops,paris,cdi,débutant (0-2 ans),0.3392259566419322,2023-07-13,0.75,q3,True,élevé,0,0.6240608
+consultant cybersécurité,toulouse,cdd,intermédiaire (2-5 ans),0.5986286919831224,2023-07-14,0.75,q3,True,moyen,0,0.63575613
+chef de projet digital,montpellier,alternance,débutant (0-2 ans),0.0556343663611232,2023-07-15,0.75,q3,True,faible,1,0.59111476
+business analyst,paris,cdd,débutant (0-2 ans),0.3406354575876618,2023-07-18,0.75,q3,True,moyen,1,0.42929092
+product owner,lille,cdi,intermédiaire (2-5 ans),0.4198494107376691,2023-07-18,0.75,q3,True,élevé,1,0.5584586
+data scientist,marseille,cdi,intermédiaire (2-5 ans),0.4764476938745817,2023-07-21,0.75,q3,False,moyen,0,0.5588574
+développeur full stack,lille,cdi,intermédiaire (2-5 ans),0.455059653717445,2023-07-24,0.75,q3,False,faible,1,0.44612128
+chargé de communication,nantes,cdi,débutant (0-2 ans),0.2666139240506329,2023-07-27,0.75,q3,False,moyen,0,0.694785
+développeur full stack,rennes,cdi,intermédiaire (2-5 ans),0.4282063873126728,2023-07-27,0.75,q3,True,moyen,0,0.44615144
+commercial b2b,lille,cdd,intermédiaire (2-5 ans),0.4486123235850429,2023-07-28,0.75,q3,True,faible,1,0.58136237
+data scientist,montpellier,cdi,intermédiaire (2-5 ans),0.4785301178524662,2023-07-28,0.75,q3,True,moyen,0,0.5588574
+développeur full stack,paris,cdi,confirmé (5-8 ans),0.5387385421213444,2023-07-30,0.75,q3,True,élevé,0,0.44612128
+responsable marketing digital,nantes,cdi,débutant (0-2 ans),0.3225574712643678,2023-08-01,0.75,q3,True,moyen,1,0.44674724
+contrôleur de gestion,toulouse,cdi,intermédiaire (2-5 ans),0.3691073766914011,2023-08-03,0.75,q3,True,moyen,0,0.35000122
+consultant cybersécurité,paris,cdi,débutant (0-2 ans),0.3197293758184199,2023-08-04,0.75,q3,True,moyen,0,0.63575613
+architecte cloud,bordeaux,freelance,confirmé (5-8 ans),0.4248008511567001,2023-08-05,0.75,q3,False,élevé,0,0.35840565
+product owner,paris,alternance,intermédiaire (2-5 ans),0.1111596100683835,2023-08-05,0.75,q3,True,élevé,1,0.5584586
+développeur full stack,strasbourg,cdi,confirmé (5-8 ans),0.5957642223192201,2023-08-06,0.75,q3,True,moyen,1,0.44612128
+commercial b2b,strasbourg,cdd,confirmé (5-8 ans),0.5827331587370872,2023-08-09,0.75,q3,False,faible,1,0.58136237
+business analyst,paris,cdd,intermédiaire (2-5 ans),0.4690546340753674,2023-08-09,0.75,q3,True,faible,1,0.42929092
+business analyst,paris,cdi,confirmé (5-8 ans),0.4907063873126728,2023-08-10,0.75,q3,True,faible,0,0.42929092
+commercial b2b,nantes,cdi,débutant (0-2 ans),0.2420249527135166,2023-08-10,0.75,q3,True,faible,0,0.58136237
+développeur full stack,paris,alternance,débutant (0-2 ans),0.0794231049032445,2023-08-12,0.75,q3,False,élevé,1,0.44612128
+ingénieur devops,lille,stage,intermédiaire (2-5 ans),0.0650825694747563,2023-08-12,0.75,q3,False,élevé,1,0.6240608
+ux/ui designer,bordeaux,cdi,débutant (0-2 ans),0.2886839807944129,2023-08-14,0.75,q3,False,moyen,1,0.5471124
+développeur full stack,strasbourg,freelance,débutant (0-2 ans),0.4633620689655172,2023-08-18,0.75,q3,True,moyen,1,0.44612128
+développeur full stack,marseille,freelance,intermédiaire (2-5 ans),0.6438782191182889,2023-08-20,0.75,q3,True,moyen,0,0.44612128
+développeur full stack,lyon,stage,débutant (0-2 ans),0.0326822348319511,2023-08-22,0.75,q3,False,élevé,1,0.44612128
+product owner,lille,alternance,intermédiaire (2-5 ans),0.1237723701440419,2023-08-25,0.75,q3,True,moyen,1,0.5584586
+data scientist,lyon,cdi,débutant (0-2 ans),0.3412720064018623,2023-08-26,0.75,q3,True,faible,1,0.5588574
+ingénieur ia,paris,cdi,confirmé (5-8 ans),0.636239633347883,2023-08-30,0.75,q3,True,moyen,0,0.47765684
+développeur full stack,paris,cdi,débutant (0-2 ans),0.344127382511276,2023-09-01,0.75,q3,True,moyen,0,0.44612128
+développeur full stack,marseille,cdd,confirmé (5-8 ans),0.5662283573403172,2023-09-02,0.75,q3,True,moyen,0,0.44612128
+développeur full stack,lyon,cdd,intermédiaire (2-5 ans),0.5048013967699695,2023-09-05,0.75,q3,False,élevé,0,0.44612128
+product owner,paris,stage,débutant (0-2 ans),0.0320274989087734,2023-09-11,0.75,q3,False,moyen,1,0.5584586
+data scientist,lyon,cdi,intermédiaire (2-5 ans),0.4852957223919685,2023-09-12,0.75,q3,True,faible,0,0.5588574
+consultant cybersécurité,strasbourg,cdi,intermédiaire (2-5 ans),0.4649352538920413,2023-09-14,0.75,q3,True,moyen,1,0.63575613
+développeur full stack,montpellier,cdi,confirmé (5-8 ans),0.5193147097337407,2023-09-17,0.75,q3,True,faible,0,0.44612128
+ingénieur devops,paris,cdi,débutant (0-2 ans),0.3320966099228866,2023-09-18,0.75,q3,True,faible,1,0.6240608
+ux/ui designer,lyon,cdi,intermédiaire (2-5 ans),0.363242034046268,2023-09-20,0.75,q3,False,moyen,0,0.54723346
+consultant cybersécurité,bordeaux,cdi,senior (8+ ans),0.7772988505747126,2023-09-22,0.75,q3,True,moyen,0,0.63574207
+data scientist,toulouse,cdd,confirmé (5-8 ans),0.650543794558417,2023-09-25,0.75,q3,True,faible,0,0.5588574
+développeur full stack,lyon,cdd,confirmé (5-8 ans),0.6437327222464717,2023-09-26,0.75,q3,True,élevé,0,0.44612128
+responsable rh,strasbourg,freelance,intermédiaire (2-5 ans),0.5778317328677434,2023-09-28,0.75,q3,False,moyen,1,0.4071675
+consultant cybersécurité,nantes,stage,débutant (0-2 ans),0.0287810999563509,2023-09-28,0.75,q3,True,moyen,1,0.63575613
+développeur full stack,nantes,alternance,débutant (0-2 ans),0.0806689218681798,2023-09-29,0.75,q3,True,élevé,0,0.44612128
+ingénieur devops,paris,cdd,senior (8+ ans),0.9197584751927832,2023-09-29,0.75,q3,True,moyen,0,0.6240608
+responsable rh,bordeaux,cdi,débutant (0-2 ans),0.3245307725883893,2023-09-30,0.75,q3,False,moyen,0,0.4071675
+data scientist,nantes,cdd,confirmé (5-8 ans),0.6689764295067656,2023-10-03,0.75,q4,True,faible,1,0.5588574
+responsable marketing digital,bordeaux,cdi,débutant (0-2 ans),0.3257584024443474,2023-10-04,0.75,q4,True,faible,0,0.44674724
+ingénieur devops,paris,cdi,senior (8+ ans),0.8312418158009602,2023-10-07,0.75,q4,True,moyen,1,0.6240608
+chef de projet digital,toulouse,cdi,débutant (0-2 ans),0.3223028517386876,2023-10-07,0.75,q4,True,moyen,1,0.59111476
+développeur full stack,lyon,cdi,débutant (0-2 ans),0.2904663174741743,2023-10-13,0.75,q4,True,élevé,1,0.44612128
+développeur full stack,bordeaux,freelance,senior (8+ ans),0.9372271933653428,2023-10-19,0.75,q4,True,moyen,1,0.44612128
+ingénieur ia,montpellier,cdd,confirmé (5-8 ans),0.7087243561763422,2023-10-19,0.75,q4,True,élevé,1,0.47765684
+ingénieur devops,lyon,stage,intermédiaire (2-5 ans),0.0741033755274261,2023-10-20,0.75,q4,True,élevé,1,0.6240608
+développeur full stack,nantes,stage,senior (8+ ans),0.1632020224065182,2023-10-22,0.75,q4,False,faible,0,0.44612128
+data scientist,lyon,cdi,débutant (0-2 ans),0.3566673941510258,2023-10-22,0.75,q4,True,faible,1,0.5588574
+data scientist,paris,cdi,débutant (0-2 ans),0.3573494107376691,2023-10-27,0.75,q4,False,moyen,0,0.5588574
+consultant cybersécurité,paris,cdd,senior (8+ ans),0.8433271497162811,2023-10-28,0.75,q4,False,faible,1,0.63575613
+architecte cloud,rennes,cdd,intermédiaire (2-5 ans),0.6308653426451332,2023-10-28,0.75,q4,True,élevé,0,0.35840565
+ingénieur devops,lyon,cdi,intermédiaire (2-5 ans),0.4253328240942819,2023-10-30,0.75,q4,False,moyen,0,0.6240608
+ingénieur devops,lille,cdi,intermédiaire (2-5 ans),0.4683089626073039,2023-10-30,0.75,q4,True,moyen,1,0.6240608
+ingénieur devops,nantes,alternance,débutant (0-2 ans),0.0715298996071584,2023-11-05,0.75,q4,True,élevé,0,0.6240608
+contrôleur de gestion,toulouse,cdd,intermédiaire (2-5 ans),0.4455023279499491,2023-11-06,0.75,q4,True,moyen,1,0.35000122
+développeur full stack,toulouse,cdi,débutant (0-2 ans),0.2982322130074203,2023-11-08,0.75,q4,True,élevé,1,0.44612128
+chef de projet digital,paris,cdi,débutant (0-2 ans),0.3191201076676851,2023-11-09,0.75,q4,True,moyen,0,0.59111476
+développeur full stack,paris,cdi,senior (8+ ans),0.6897279208497017,2023-11-09,0.75,q4,False,moyen,1,0.44612128
+responsable marketing digital,bordeaux,cdd,débutant (0-2 ans),0.3575767495998836,2023-11-11,0.75,q4,True,moyen,1,0.44674724
+data scientist,paris,cdi,intermédiaire (2-5 ans),0.5078568310781318,2023-11-11,0.75,q4,True,moyen,0,0.5588574
+commercial b2b,marseille,cdi,débutant (0-2 ans),0.2897933944420195,2023-11-12,0.75,q4,False,élevé,0,0.58136237
+data scientist,paris,alternance,senior (8+ ans),0.2250109122653863,2023-11-12,0.75,q4,True,faible,0,0.5588574
+ingénieur ia,montpellier,stage,débutant (0-2 ans),0.0424032445802415,2023-11-13,0.75,q4,False,moyen,1,0.4776264
+responsable marketing digital,marseille,cdi,intermédiaire (2-5 ans),0.422677506183617,2023-11-14,0.75,q4,True,moyen,0,0.44674724
+data scientist,paris,cdi,intermédiaire (2-5 ans),0.5171686308744362,2023-11-23,0.75,q4,False,faible,0,0.5588574
+architecte cloud,paris,cdi,débutant (0-2 ans),0.3582678597410155,2023-11-27,0.75,q4,True,élevé,0,0.35840565
+product owner,paris,cdi,intermédiaire (2-5 ans),0.4493761821620835,2023-11-28,0.75,q4,True,élevé,0,0.5584586
+commercial b2b,marseille,cdi,débutant (0-2 ans),0.2777262476356758,2023-12-04,0.75,q4,True,moyen,1,0.58136237
+chef de projet digital,paris,cdi,intermédiaire (2-5 ans),0.4232776807798632,2023-12-05,0.75,q4,False,moyen,0,0.59111476
+consultant cybersécurité,montpellier,freelance,intermédiaire (2-5 ans),0.7347864833406081,2023-12-06,0.75,q4,False,faible,0,0.63575613
+ingénieur ia,toulouse,cdi,intermédiaire (2-5 ans),0.4251509530045104,2023-12-10,0.75,q4,True,faible,1,0.47765684
+commercial b2b,nantes,stage,senior (8+ ans),0.1330932634948348,2023-12-13,0.75,q4,True,élevé,1,0.58136237
+ingénieur ia,rennes,freelance,intermédiaire (2-5 ans),0.765359013531209,2023-12-14,0.75,q4,True,moyen,0,0.47765684
+architecte cloud,paris,freelance,intermédiaire (2-5 ans),0.7731794703913866,2023-12-15,0.75,q4,True,moyen,1,0.35840565
+consultant cybersécurité,toulouse,alternance,intermédiaire (2-5 ans),0.1194620253164557,2023-12-16,0.75,q4,True,élevé,0,0.63575613
+développeur full stack,paris,cdi,débutant (0-2 ans),0.2792357776807798,2023-12-19,0.75,q4,False,moyen,0,0.44612128
+product owner,toulouse,cdi,confirmé (5-8 ans),0.4881147242834279,2023-12-21,0.75,q4,True,faible,1,0.5584586
+consultant cybersécurité,strasbourg,cdi,confirmé (5-8 ans),0.5894078277317037,2023-12-21,0.75,q4,True,moyen,1,0.63575613
+développeur full stack,paris,cdi,débutant (0-2 ans),0.3048523206751055,2023-12-24,0.75,q4,False,moyen,1,0.44612128
+développeur full stack,lyon,stage,débutant (0-2 ans),0.0163502109704641,2023-12-25,0.75,q4,True,faible,0,0.44612128
+consultant cybersécurité,lyon,cdd,intermédiaire (2-5 ans),0.6117506911101411,2023-12-26,0.75,q4,False,moyen,1,0.63575613
+développeur full stack,montpellier,cdi,débutant (0-2 ans),0.3448093990979194,2023-12-29,0.75,q4,False,faible,0,0.44612128
+data scientist,nantes,cdi,confirmé (5-8 ans),0.5489778844754838,2023-12-30,0.75,q4,True,moyen,0,0.5588574
+consultant cybersécurité,lille,cdi,confirmé (5-8 ans),0.5832605848974247,2024-01-02,1.0,q1,True,faible,1,0.63575613
+consultant cybersécurité,paris,cdd,intermédiaire (2-5 ans),0.57363051069402,2024-01-03,1.0,q1,True,élevé,0,0.63575613
+business analyst,lille,cdi,intermédiaire (2-5 ans),0.448803288229303,2024-01-03,1.0,q1,True,élevé,0,0.42929092
+responsable marketing digital,bordeaux,cdd,intermédiaire (2-5 ans),0.4897424705368834,2024-01-04,1.0,q1,True,élevé,0,0.44674724
+consultant cybersécurité,toulouse,freelance,débutant (0-2 ans),0.5682016586643387,2024-01-04,1.0,q1,False,moyen,1,0.63575613
+commercial b2b,toulouse,cdi,confirmé (5-8 ans),0.4565509966535719,2024-01-04,1.0,q1,True,élevé,1,0.58136237
+contrôleur de gestion,bordeaux,cdi,débutant (0-2 ans),0.2558289684271788,2024-01-05,1.0,q1,True,moyen,1,0.35000122
+chef de projet digital,toulouse,alternance,débutant (0-2 ans),0.0604539502400698,2024-01-06,1.0,q1,True,moyen,0,0.59111476
+développeur full stack,lyon,cdi,débutant (0-2 ans),0.3351702313400262,2024-01-10,1.0,q1,True,élevé,0,0.44612128
+développeur full stack,paris,stage,confirmé (5-8 ans),0.1187709151753237,2024-01-13,1.0,q1,True,élevé,1,0.44612128
+ux/ui designer,lyon,cdi,intermédiaire (2-5 ans),0.3731358213298414,2024-01-13,1.0,q1,False,faible,0,0.54723346
+ingénieur devops,lille,cdi,débutant (0-2 ans),0.2937672777535283,2024-01-14,1.0,q1,False,moyen,0,0.6239463
+business analyst,toulouse,cdd,confirmé (5-8 ans),0.5724301615015277,2024-01-15,1.0,q1,True,moyen,1,0.42929092
+ingénieur devops,paris,cdi,débutant (0-2 ans),0.3060344827586206,2024-01-15,1.0,q1,True,élevé,1,0.6240608
+business analyst,strasbourg,stage,confirmé (5-8 ans),0.102584388185654,2024-01-15,1.0,q1,True,élevé,1,0.42929092
+chargé de communication,strasbourg,cdi,débutant (0-2 ans),0.2240288083806198,2024-01-16,1.0,q1,True,moyen,0,0.6947753
+développeur full stack,bordeaux,stage,confirmé (5-8 ans),0.102820820602357,2024-01-18,1.0,q1,True,élevé,0,0.44612128
+data scientist,paris,stage,débutant (0-2 ans),0.037538192928852,2024-01-19,1.0,q1,True,faible,0,0.5588574
+ux/ui designer,marseille,cdi,intermédiaire (2-5 ans),0.4083369707551287,2024-01-24,1.0,q1,False,faible,0,0.5471124
+développeur full stack,paris,cdi,débutant (0-2 ans),0.3321693583587953,2024-01-24,1.0,q1,True,moyen,1,0.44612128
+ingénieur devops,lille,freelance,intermédiaire (2-5 ans),0.6924650807507639,2024-01-26,1.0,q1,True,moyen,0,0.6240608
+développeur full stack,paris,freelance,intermédiaire (2-5 ans),0.6853175469227412,2024-01-29,1.0,q1,True,moyen,1,0.44612128
+commercial b2b,marseille,cdi,intermédiaire (2-5 ans),0.4355903535573985,2024-01-29,1.0,q1,True,élevé,0,0.58136237
+responsable marketing digital,nantes,stage,confirmé (5-8 ans),0.089789757020224,2024-01-30,1.0,q1,False,élevé,0,0.44674724
+ingénieur ia,nantes,freelance,débutant (0-2 ans),0.480712570929725,2024-02-01,1.0,q1,True,moyen,1,0.47765684
+développeur full stack,lille,freelance,intermédiaire (2-5 ans),0.6520806052669867,2024-02-03,1.0,q1,True,élevé,1,0.44612128
+product owner,lille,cdd,intermédiaire (2-5 ans),0.5455405208788011,2024-02-05,1.0,q1,False,moyen,1,0.5584586
+développeur full stack,paris,cdi,intermédiaire (2-5 ans),0.3938600320093118,2024-02-09,1.0,q1,False,moyen,0,0.44612128
+data scientist,paris,cdi,confirmé (5-8 ans),0.6320929725010912,2024-02-11,1.0,q1,True,faible,1,0.5588574
+architecte cloud,lyon,cdi,débutant (0-2 ans),0.4568419903972064,2024-02-12,1.0,q1,True,moyen,1,0.35840565
+ingénieur ia,lyon,cdi,senior (8+ ans),0.7397333769823948,2024-02-12,1.0,q1,True,moyen,1,0.47765684
+architecte cloud,nantes,cdi,intermédiaire (2-5 ans),0.6232722246471701,2024-02-14,1.0,q1,False,moyen,1,0.35840565
+chargé de communication,lyon,cdi,confirmé (5-8 ans),0.4605066928561035,2024-02-18,1.0,q1,False,moyen,1,0.6947753
+développeur full stack,paris,freelance,confirmé (5-8 ans),0.7639040448130365,2024-02-19,1.0,q1,False,moyen,1,0.44612128
+responsable marketing digital,lyon,cdi,senior (8+ ans),0.7825276444056453,2024-02-26,1.0,q1,True,faible,1,0.44674724
+commercial b2b,lille,cdi,confirmé (5-8 ans),0.5548886948930598,2024-03-05,1.0,q1,True,moyen,0,0.58136237
+architecte cloud,rennes,cdi,confirmé (5-8 ans),0.6842808817110432,2024-03-05,1.0,q1,True,moyen,0,0.35840565
+ingénieur devops,paris,cdi,débutant (0-2 ans),0.3199658082351229,2024-03-07,1.0,q1,True,faible,0,0.6240608
+responsable marketing digital,lille,cdi,intermédiaire (2-5 ans),0.453959333624327,2024-03-07,1.0,q1,False,élevé,1,0.44674724
+développeur full stack,strasbourg,freelance,confirmé (5-8 ans),0.8175378291866725,2024-03-10,1.0,q1,True,élevé,0,0.44612128
+ingénieur devops,strasbourg,cdi,débutant (0-2 ans),0.375691110141132,2024-03-11,1.0,q1,False,moyen,1,0.6240608
+chef de projet digital,paris,cdi,senior (8+ ans),0.8228575585624909,2024-03-12,1.0,q1,True,moyen,1,0.59111476
+product owner,paris,cdi,senior (8+ ans),0.6715317183180561,2024-03-16,1.0,q1,True,faible,1,0.5584624
+développeur full stack,montpellier,freelance,intermédiaire (2-5 ans),0.6448057616761239,2024-03-17,1.0,q1,True,moyen,0,0.44615144
+chef de projet digital,strasbourg,cdi,intermédiaire (2-5 ans),0.4258693438091081,2024-03-17,1.0,q1,False,moyen,1,0.59111476
+développeur full stack,strasbourg,alternance,senior (8+ ans),0.2120707842281391,2024-03-20,1.0,q1,False,moyen,1,0.44612128
+responsable marketing digital,paris,cdi,débutant (0-2 ans),0.3140277171540812,2024-03-21,1.0,q1,True,moyen,1,0.44674724
+développeur full stack,lyon,cdi,senior (8+ ans),0.7851284009893787,2024-03-22,1.0,q1,True,élevé,0,0.44612128
+développeur full stack,lille,cdi,intermédiaire (2-5 ans),0.4814218681798341,2024-03-22,1.0,q1,True,moyen,1,0.44612128
+data scientist,bordeaux,cdi,intermédiaire (2-5 ans),0.5325094572966681,2024-03-25,1.0,q1,True,moyen,0,0.5588574
+product owner,bordeaux,cdi,confirmé (5-8 ans),0.6277280663465735,2024-03-25,1.0,q1,True,moyen,0,0.5584586
+développeur full stack,toulouse,cdi,senior (8+ ans),0.6900098210388477,2024-03-27,1.0,q1,True,moyen,0,0.44612128
+responsable marketing digital,marseille,cdi,débutant (0-2 ans),0.2734795576895096,2024-03-27,1.0,q1,True,faible,0,0.44674724
+business analyst,bordeaux,cdi,confirmé (5-8 ans),0.5236523352247927,2024-03-30,1.0,q1,True,élevé,1,0.42929092
+ingénieur ia,paris,cdd,intermédiaire (2-5 ans),0.5346191619380183,2024-03-30,1.0,q1,True,moyen,1,0.47765684
+commercial b2b,bordeaux,cdi,intermédiaire (2-5 ans),0.3722082787720064,2024-04-02,1.0,q2,False,moyen,1,0.58136237
+consultant cybersécurité,toulouse,cdi,intermédiaire (2-5 ans),0.5582624036083225,2024-04-04,1.0,q2,True,élevé,1,0.63575613
+ingénieur ia,lille,alternance,débutant (0-2 ans),0.0942274116106503,2024-04-08,1.0,q2,True,moyen,0,0.47765684
+data scientist,paris,cdi,débutant (0-2 ans),0.3410173868761821,2024-04-10,1.0,q2,True,faible,0,0.5588574
+ingénieur ia,toulouse,cdd,confirmé (5-8 ans),0.6529353993889131,2024-04-13,1.0,q2,True,moyen,0,0.47765684
+responsable marketing digital,paris,stage,intermédiaire (2-5 ans),0.0570256801978757,2024-04-22,1.0,q2,False,faible,1,0.44674724
+chargé de communication,toulouse,cdi,intermédiaire (2-5 ans),0.3200658373344973,2024-04-25,1.0,q2,True,moyen,1,0.6947753
+commercial b2b,marseille,freelance,intermédiaire (2-5 ans),0.5172686599738106,2024-04-26,1.0,q2,True,faible,1,0.58136237
+développeur full stack,lille,cdi,débutant (0-2 ans),0.2952677142441438,2024-04-30,1.0,q2,True,moyen,1,0.44612128
+ingénieur devops,toulouse,cdi,intermédiaire (2-5 ans),0.4725101847810272,2024-04-30,1.0,q2,True,moyen,0,0.6240608
+consultant cybersécurité,lyon,cdi,intermédiaire (2-5 ans),0.5320456860177506,2024-05-01,1.0,q2,True,faible,0,0.63575613
+data scientist,lyon,cdi,confirmé (5-8 ans),0.6587279935981376,2024-05-01,1.0,q2,True,élevé,0,0.5588574
+ux/ui designer,lyon,cdi,confirmé (5-8 ans),0.5460679470391386,2024-05-04,1.0,q2,True,élevé,1,0.5471124
+data scientist,toulouse,cdi,intermédiaire (2-5 ans),0.5236796158882584,2024-05-13,1.0,q2,False,faible,0,0.5588574
+commercial b2b,bordeaux,cdd,confirmé (5-8 ans),0.51113051069402,2024-05-16,1.0,q2,True,élevé,1,0.58136237
+data scientist,lille,cdi,débutant (0-2 ans),0.3293594500218245,2024-05-16,1.0,q2,True,moyen,1,0.5588574
+commercial b2b,paris,cdi,intermédiaire (2-5 ans),0.4175578350065473,2024-05-17,1.0,q2,True,élevé,1,0.58136237
+commercial b2b,paris,cdd,débutant (0-2 ans),0.3321057034773752,2024-05-26,1.0,q2,True,élevé,1,0.58136237
+développeur full stack,marseille,cdi,intermédiaire (2-5 ans),0.4802578932052961,2024-05-26,1.0,q2,False,élevé,1,0.44612128
+data scientist,rennes,cdd,débutant (0-2 ans),0.4193856394587516,2024-05-26,1.0,q2,True,moyen,1,0.5588574
+développeur full stack,paris,cdi,intermédiaire (2-5 ans),0.4084733740724574,2024-05-28,1.0,q2,True,élevé,0,0.44615144
+product owner,nantes,freelance,confirmé (5-8 ans),0.752718972792085,2024-05-28,1.0,q2,True,moyen,1,0.5584586
+développeur full stack,paris,cdi,débutant (0-2 ans),0.3091808526116688,2024-05-28,1.0,q2,True,moyen,0,0.44612128
+chef de projet digital,paris,cdd,débutant (0-2 ans),0.3364797031863815,2024-05-29,1.0,q2,False,élevé,0,0.59111476
+responsable marketing digital,rennes,cdi,intermédiaire (2-5 ans),0.4473574130656191,2024-05-30,1.0,q2,True,élevé,1,0.44674724
+architecte cloud,nantes,cdd,confirmé (5-8 ans),0.8666703040884621,2024-06-03,1.0,q2,True,moyen,0,0.35840565
+développeur full stack,paris,stage,intermédiaire (2-5 ans),0.076113051069402,2024-06-03,1.0,q2,True,moyen,1,0.44612128
+architecte cloud,paris,cdd,intermédiaire (2-5 ans),0.6695129492215918,2024-06-08,1.0,q2,True,moyen,0,0.35840565
+ingénieur devops,marseille,cdi,confirmé (5-8 ans),0.6383857122071875,2024-06-12,1.0,q2,True,moyen,1,0.6240608
+ingénieur ia,paris,cdi,débutant (0-2 ans),0.3727629855958096,2024-06-15,1.0,q2,True,faible,1,0.47765684
+développeur full stack,paris,cdi,débutant (0-2 ans),0.2993780008729812,2024-06-16,1.0,q2,True,moyen,1,0.44612128
+architecte cloud,toulouse,alternance,intermédiaire (2-5 ans),0.1558089626073039,2024-06-17,1.0,q2,False,moyen,0,0.35840565
+chef de projet digital,nantes,cdi,débutant (0-2 ans),0.2988960424850865,2024-06-24,1.0,q2,False,moyen,1,0.59111476
+chef de projet digital,paris,stage,débutant (0-2 ans),0.0227884475483777,2024-06-25,1.0,q2,True,élevé,0,0.59111476
+ingénieur devops,nantes,cdi,confirmé (5-8 ans),0.56429143023425,2024-06-27,1.0,q2,True,moyen,1,0.6240608
+chef de projet digital,strasbourg,stage,intermédiaire (2-5 ans),0.0820693292594209,2024-07-01,1.0,q3,True,élevé,0,0.59111476
+ingénieur ia,bordeaux,stage,débutant (0-2 ans),0.0332187545467772,2024-07-01,1.0,q3,True,élevé,1,0.47765684
+ingénieur devops,toulouse,cdi,débutant (0-2 ans),0.3374436199621708,2024-07-02,1.0,q3,True,faible,1,0.6240608
+data scientist,lyon,freelance,senior (8+ ans),0.4248008511567001,2024-07-02,1.0,q3,True,moyen,0,0.5588574
+ingénieur devops,toulouse,cdi,senior (8+ ans),0.812909209951986,2024-07-03,1.0,q3,True,moyen,0,0.6240608
+chargé de communication,paris,cdi,intermédiaire (2-5 ans),0.3254674087007129,2024-07-04,1.0,q3,True,faible,0,0.6947753
+consultant cybersécurité,bordeaux,cdi,senior (8+ ans),0.7460261166884912,2024-07-06,1.0,q3,False,élevé,1,0.63575613
+ux/ui designer,paris,cdi,confirmé (5-8 ans),0.5581987487269023,2024-07-16,1.0,q3,True,élevé,1,0.5471124
+consultant cybersécurité,paris,stage,débutant (0-2 ans),0.0498690528153644,2024-07-18,1.0,q3,True,faible,0,0.63575613
+responsable marketing digital,bordeaux,cdi,intermédiaire (2-5 ans),0.4459751927833552,2024-07-19,1.0,q3,False,moyen,0,0.44674724
+développeur full stack,marseille,cdi,intermédiaire (2-5 ans),0.4404735923177652,2024-07-25,1.0,q3,True,moyen,1,0.44612128
+chargé de communication,lille,cdi,senior (8+ ans),0.5758038702167904,2024-07-26,1.0,q3,False,moyen,1,0.6947753
+consultant cybersécurité,marseille,cdi,confirmé (5-8 ans),0.7109068092536011,2024-08-01,1.0,q3,False,élevé,0,0.63575613
+contrôleur de gestion,nantes,stage,intermédiaire (2-5 ans),0.054106649207042,2024-08-01,1.0,q3,True,élevé,0,0.35000122
+commercial b2b,nantes,cdd,confirmé (5-8 ans),0.5271806343663611,2024-08-02,1.0,q3,False,faible,1,0.58136237
+data scientist,bordeaux,cdi,débutant (0-2 ans),0.3067346864542412,2024-08-05,1.0,q3,True,faible,1,0.5588574
+business analyst,marseille,freelance,débutant (0-2 ans),0.4769933071438964,2024-08-07,1.0,q3,True,élevé,0,0.429261
+data scientist,toulouse,stage,confirmé (5-8 ans),0.1203804743198021,2024-08-08,1.0,q3,True,moyen,0,0.5588574
+chef de projet digital,nantes,alternance,intermédiaire (2-5 ans),0.1388222028226393,2024-08-08,1.0,q3,True,élevé,1,0.59111476
+développeur full stack,toulouse,cdi,intermédiaire (2-5 ans),0.3906863814927979,2024-08-09,1.0,q3,True,élevé,1,0.44612128
+data scientist,paris,freelance,intermédiaire (2-5 ans),0.6823621417139532,2024-08-13,1.0,q3,True,moyen,0,0.5588574
+développeur full stack,toulouse,cdi,senior (8+ ans),0.7247108249672632,2024-08-15,1.0,q3,True,moyen,0,0.44612128
+chef de projet digital,lille,cdi,senior (8+ ans),0.7755256074494399,2024-08-16,1.0,q3,True,faible,0,0.59111476
+ux/ui designer,toulouse,cdd,débutant (0-2 ans),0.2769169212861923,2024-08-20,1.0,q3,False,faible,1,0.5471124
+business analyst,nantes,cdi,intermédiaire (2-5 ans),0.3660974101556816,2024-08-21,1.0,q3,True,moyen,1,0.42929092
+commercial b2b,strasbourg,cdi,débutant (0-2 ans),0.2762530918085261,2024-08-22,1.0,q3,False,moyen,1,0.58136237
+contrôleur de gestion,paris,cdi,débutant (0-2 ans),0.2883111450603812,2024-08-26,1.0,q3,True,moyen,1,0.35000122
+data scientist,paris,cdi,intermédiaire (2-5 ans),0.4809308162374509,2024-08-26,1.0,q3,True,faible,1,0.5588574
+product owner,paris,freelance,débutant (0-2 ans),0.5279899607158446,2024-08-27,1.0,q3,True,élevé,1,0.5584586
+consultant cybersécurité,lyon,cdi,confirmé (5-8 ans),0.6243270769678452,2024-08-28,1.0,q3,True,élevé,1,0.63575613
+consultant cybersécurité,toulouse,cdi,intermédiaire (2-5 ans),0.451349483486105,2024-08-29,1.0,q3,True,moyen,0,0.63575613
+business analyst,toulouse,cdi,débutant (0-2 ans),0.291011930743489,2024-08-31,1.0,q3,False,faible,1,0.42929092
+ingénieur ia,rennes,cdi,débutant (0-2 ans),0.387749163392987,2024-09-06,1.0,q3,True,moyen,0,0.47765684
+chef de projet digital,paris,cdi,intermédiaire (2-5 ans),0.4297522915757311,2024-09-08,1.0,q3,True,moyen,0,0.59111476
+développeur full stack,paris,cdd,intermédiaire (2-5 ans),0.4644442019496581,2024-09-10,1.0,q3,False,moyen,1,0.44612128
+commercial b2b,marseille,freelance,confirmé (5-8 ans),0.7069056452786265,2024-09-12,1.0,q3,True,moyen,0,0.58136237
+ingénieur ia,bordeaux,cdi,débutant (0-2 ans),0.4005710752218827,2024-09-12,1.0,q3,False,moyen,0,0.47765684
+ux/ui designer,nantes,cdi,intermédiaire (2-5 ans),0.40257165720937,2024-09-13,1.0,q3,False,élevé,1,0.5471124
+responsable marketing digital,paris,cdi,intermédiaire (2-5 ans),0.4074367088607595,2024-09-16,1.0,q3,False,élevé,1,0.44674724
+consultant cybersécurité,toulouse,cdi,intermédiaire (2-5 ans),0.4874145205878074,2024-09-17,1.0,q3,True,faible,1,0.63575613
+architecte cloud,paris,cdi,débutant (0-2 ans),0.4038356612832824,2024-09-18,1.0,q3,True,moyen,1,0.35840565
+architecte cloud,lille,cdd,débutant (0-2 ans),0.4319529317619671,2024-09-18,1.0,q3,True,faible,1,0.35840565
+ingénieur ia,montpellier,stage,intermédiaire (2-5 ans),0.0815237159901062,2024-09-20,1.0,q3,True,élevé,1,0.47765684
+ingénieur devops,lyon,cdi,intermédiaire (2-5 ans),0.4922431980212425,2024-09-22,1.0,q3,False,élevé,1,0.6240608
+data scientist,lyon,cdd,senior (8+ ans),0.8464007711334206,2024-09-30,1.0,q3,True,faible,1,0.5588574
+chef de projet digital,paris,cdd,senior (8+ ans),0.7741979484941074,2024-09-30,1.0,q3,True,moyen,0,0.59111476
+développeur full stack,strasbourg,cdi,intermédiaire (2-5 ans),0.4462843736359668,2024-10-04,1.0,q4,True,moyen,0,0.44612128
+data scientist,paris,cdi,débutant (0-2 ans),0.3661246908191474,2024-10-04,1.0,q4,False,moyen,1,0.5588574
+ingénieur ia,bordeaux,cdi,intermédiaire (2-5 ans),0.4485122944856685,2024-10-07,1.0,q4,True,faible,1,0.4776264
+chargé de communication,paris,cdi,intermédiaire (2-5 ans),0.3512658227848101,2024-10-09,1.0,q4,True,élevé,1,0.694785
+chargé de communication,strasbourg,freelance,débutant (0-2 ans),0.3689345991561181,2024-10-10,1.0,q4,False,élevé,0,0.6947753
+développeur full stack,paris,cdi,débutant (0-2 ans),0.3136821620835152,2024-10-20,1.0,q4,False,moyen,0,0.44612128
+data scientist,paris,cdi,confirmé (5-8 ans),0.6309017168630875,2024-10-20,1.0,q4,True,moyen,1,0.5588574
+product owner,paris,freelance,confirmé (5-8 ans),0.7683962607303942,2024-10-21,1.0,q4,True,moyen,1,0.5584586
+business analyst,marseille,cdd,intermédiaire (2-5 ans),0.435363014695184,2024-10-22,1.0,q4,False,élevé,1,0.42929092
+chef de projet digital,lyon,cdi,intermédiaire (2-5 ans),0.4794485668558126,2024-10-23,1.0,q4,True,moyen,1,0.59111476
+ux/ui designer,lille,cdi,confirmé (5-8 ans),0.5495507784082643,2024-10-25,1.0,q4,True,moyen,0,0.5471124
+développeur full stack,paris,cdd,confirmé (5-8 ans),0.5855066928561036,2024-10-25,1.0,q4,True,faible,0,0.44612128
+développeur full stack,montpellier,cdd,débutant (0-2 ans),0.4005347010039284,2024-10-26,1.0,q4,True,faible,1,0.44612128
+data scientist,bordeaux,cdi,débutant (0-2 ans),0.3730448857849556,2024-10-27,1.0,q4,True,moyen,1,0.5588574
+ingénieur ia,paris,cdi,intermédiaire (2-5 ans),0.4710643096173432,2024-10-29,1.0,q4,True,moyen,0,0.47765684
+contrôleur de gestion,toulouse,stage,intermédiaire (2-5 ans),0.0450403753819292,2024-10-30,1.0,q4,True,moyen,1,0.35000122
+ux/ui designer,marseille,cdd,débutant (0-2 ans),0.2828913865851884,2024-11-01,1.0,q4,True,moyen,1,0.5471124
+data scientist,rennes,cdi,débutant (0-2 ans),0.3303597410155681,2024-11-01,1.0,q4,True,élevé,1,0.5588574
+commercial b2b,paris,cdi,senior (8+ ans),0.6318110723119453,2024-11-07,1.0,q4,True,faible,0,0.58136237
+architecte cloud,paris,freelance,intermédiaire (2-5 ans),0.8160010184781027,2024-11-08,1.0,q4,True,moyen,0,0.35840565
+commercial b2b,paris,cdi,senior (8+ ans),0.6091044667539648,2024-11-09,1.0,q4,True,moyen,1,0.58136237
+commercial b2b,paris,cdi,confirmé (5-8 ans),0.5411574276153063,2024-11-10,1.0,q4,True,élevé,1,0.58136237
+ux/ui designer,marseille,cdi,débutant (0-2 ans),0.2876745962461807,2024-11-13,1.0,q4,True,élevé,0,0.5471124
+chef de projet digital,toulouse,cdi,débutant (0-2 ans),0.309781027207915,2024-11-13,1.0,q4,False,faible,0,0.59111476
+chargé de communication,marseille,alternance,intermédiaire (2-5 ans),0.092163174741743,2024-11-18,1.0,q4,True,faible,0,0.6947753
+chef de projet digital,rennes,cdi,intermédiaire (2-5 ans),0.4456660119307435,2024-11-25,1.0,q4,False,élevé,1,0.59111476
+ingénieur ia,paris,cdi,débutant (0-2 ans),0.3204568601775062,2024-11-27,1.0,q4,False,moyen,0,0.47765684
+responsable rh,montpellier,cdd,confirmé (5-8 ans),0.5397933944420195,2024-12-01,1.0,q4,True,moyen,0,0.4071675
+product owner,paris,alternance,intermédiaire (2-5 ans),0.1164156845627819,2024-12-02,1.0,q4,True,élevé,0,0.5584586
+chef de projet digital,paris,cdi,intermédiaire (2-5 ans),0.4479939618798196,2024-12-03,1.0,q4,True,élevé,1,0.59111476
+commercial b2b,paris,cdi,confirmé (5-8 ans),0.4439200494689364,2024-12-03,1.0,q4,True,faible,1,0.58136237
+développeur full stack,montpellier,cdi,intermédiaire (2-5 ans),0.4155026916921286,2024-12-04,1.0,q4,True,moyen,0,0.44612128
+ingénieur devops,montpellier,cdi,débutant (0-2 ans),0.3034701003928415,2024-12-11,1.0,q4,False,élevé,0,0.6240608
+commercial b2b,paris,cdd,confirmé (5-8 ans),0.5278808380619817,2024-12-14,1.0,q4,True,élevé,1,0.58136237
+business analyst,nantes,cdi,intermédiaire (2-5 ans),0.4202949949076094,2024-12-15,1.0,q4,True,moyen,1,0.429261
+data scientist,paris,cdi,débutant (0-2 ans),0.3423723264949803,2024-12-17,1.0,q4,True,moyen,0,0.5588574
+commercial b2b,paris,cdi,débutant (0-2 ans),0.2992052233376982,2024-12-20,1.0,q4,True,moyen,0,0.5813625
+responsable marketing digital,paris,stage,confirmé (5-8 ans),0.1130601629564964,2024-12-22,1.0,q4,True,élevé,1,0.4467473
+ingénieur ia,paris,cdi,intermédiaire (2-5 ans),0.5066473883311509,2024-12-27,1.0,q4,True,moyen,1,0.47765684
+contrôleur de gestion,paris,cdi,confirmé (5-8 ans),0.522824821766332,2024-12-29,1.0,q4,False,élevé,0,0.35000116
